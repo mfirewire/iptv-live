@@ -3,11 +3,12 @@ CCTV,#genre#
 CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
 CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-
+CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 
 CCTV2,http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
 CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
 CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 
 CCTV3,http://cyz32.livehbindex.hbcatv.cn/live/50000020425540c3b4e7c41ca3eabb76.m3u8?bitrate=2300&pt=5
 CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
