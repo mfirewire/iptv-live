@@ -1,3 +1,13 @@
 CCTV,#genre#
 CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV1,https://live.goodiptv.club/api/ghyx.php?id=CCTV1HD_6000
+CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV1,https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
+CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
+
+
+CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+CCTV2,https://live.goodiptv.club/api/ghyx.php?id=CCTV2HD_6000
+CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+CCTV2,https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
+CCTV2,http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
