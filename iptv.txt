@@ -254,11 +254,11 @@ CCTV16-4K,https://live.goodiptv.club/aishang/cctv164k
 CCTV4K,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
 CCTV16-4K,https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-CCTV-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV16-4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
-CCTV-4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
+CCTV4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
 CCTV16-4K,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV4K,http://159.75.85.63:5828/bestv.php?id=cctv4k/15000000
 CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
