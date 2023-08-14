@@ -1691,9 +1691,9 @@ BEIN 3 Sports,https://us.dispatch.ulivetv.net/v/live/cg47a0abw91c.m3u8?stream_id
 欧洲体育HD,https://us.dispatch.ulivetv.net/v/live/cg4yqzuewerk.m3u8?stream_id=cg4yqzuewerk&token=c0vzuc7wqkzk
 博斯无限,https://us.dispatch.ulivetv.net/v/live/clecumtydz28.m3u8?stream_id=clecumtydz28&token=c0vzuc7wqkzk
 NBA,https://us.dispatch.ulivetv.net/v/live/cl7cdvv53n40.m3u8?stream_id=cl7cdvv53n40&token=c0vzuc7wqkzk
-ELTA体育1,https://us.dispatch.ulivetv.net/v/live/clecyhjewngg.m3u8?stream_id=clecyhjewngg&token=c0vzuc7wqkzk
-ELTA体育2,https://us.dispatch.ulivetv.net/v/live/clecysls7oow.m3u8?stream_id=clecysls7oow&token=c0vzuc7wqkzk
-ELTA体育3,https://us.dispatch.ulivetv.net/v/live/cnnh2pl4cam8.m3u8?stream_id=cnnh2pl4cam8&token=c0vzuc7wqkzk
+爱尔达体育1台,https://us.dispatch.ulivetv.net/v/live/clecyhjewngg.m3u8?stream_id=clecyhjewngg&token=c0vzuc7wqkzk
+爱尔达体育2台,https://us.dispatch.ulivetv.net/v/live/clecysls7oow.m3u8?stream_id=clecysls7oow&token=c0vzuc7wqkzk
+爱尔达体育3台,https://us.dispatch.ulivetv.net/v/live/cnnh2pl4cam8.m3u8?stream_id=cnnh2pl4cam8&token=c0vzuc7wqkzk
 靖天卡通,https://us.dispatch.ulivetv.net/v/live/cg16vy7fp9s0.m3u8?stream_id=cg16vy7fp9s0&token=c0vzuc7wqkzk
 Astro 小太阳,https://us.dispatch.ulivetv.net/v/live/cgbwueb4f8hs.m3u8?stream_id=cgbwueb4f8hs&token=c0vzuc7wqkzk
 东森幼幼,https://us.dispatch.ulivetv.net/v/live/ciw8f5pwdghs.m3u8?stream_id=ciw8f5pwdghs&token=c0vzuc7wqkzk
@@ -1834,7 +1834,7 @@ Madinah,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=sunna
 Oasis,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Oasis
 Ceria,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=Ceria
 Sony,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=SetOne
-Supersports 1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_assp1
+Astro SuperSport 1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_assp1
 SPOTV 2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=go_spotv2
 BEIN 1 Sports,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein1_mega
 BEIN 2 Sports,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/tv/smt.php?id=bein2_mega
@@ -2078,8 +2078,8 @@ TV1,http://198.16.100.90:8278/TV1/playlist.m3u8?tid=MC7C8155208481552084&ct=1924
 TPTV,http://198.16.100.90:8278/tptv_pat/playlist.m3u8?tid=MA0A1085390910853909&ct=19249&tsum=f1dddc0f6c6af52ac954606b2f0df88d
 TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
 Suria,http://198.16.100.90:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
-体育3,http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
-体育2,http://198.16.100.90:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
+Astro SuperSport3,http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+Astro SuperSport2,http://198.16.100.90:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
 Sunnah,http://198.16.100.90:8278/sunnah_mido/playlist.m3u8?tid=MA3A8891710288917102&ct=19249&tsum=a43fbbc6ed6e843b1711624a239c14d1
 Sun Music,http://198.16.100.90:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
 Star Vijay,http://198.16.100.90:8278/Starvijay/playlist.m3u8?tid=MD7D7021074070210740&ct=19249&tsum=d469d61675c45cea051a8c286daa751b
@@ -2315,7 +2315,7 @@ ELEVEN1,rtmp://119.81.124.89/sat/tv731
 ELEVEN2,rtmp://119.81.124.89/sat/tv741
 MOMO综合,rtmp://119.81.124.89/sat/tv761
 纬来日本,rtmp://119.81.124.89/sat/tv771
-ELTA体育1,rtmp://119.81.124.89/sat/md031
+爱尔达体育1台,rtmp://119.81.124.89/sat/md031
 ELEVEN2,rtmp://119.81.124.89/sat/md041
 博斯魅力,rtmp://119.81.124.89/sat/md051
 民视,rtmp://219.80.97.77/sat/tv051
@@ -2331,7 +2331,7 @@ ELEVEN1,rtmp://219.80.97.77/sat/tv731
 ELEVEN2,rtmp://219.80.97.77/sat/tv741
 MOMO综合,rtmp://219.80.97.77/sat/tv761
 纬来日本,rtmp://219.80.97.77/sat/tv771
-ELTA体育1,rtmp://219.80.97.77/sat/md031
+爱尔达体育1台,rtmp://219.80.97.77/sat/md031
 ELEVEN2,rtmp://219.80.97.77/sat/md041
 博斯魅力,rtmp://219.80.97.77/sat/md051
 靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
