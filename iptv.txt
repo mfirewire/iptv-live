@@ -1665,7 +1665,7 @@ TVBS欢乐,https://us.dispatch.ulivetv.net/v/live/cg0hzu3sgc00.m3u8?stream_id=cg
 MTV Live,https://us.dispatch.ulivetv.net/v/live/clecsxddtsxs.m3u8?stream_id=clecsxddtsxs&token=c0vzuc7wqkzk
 靖洋戏剧,https://us.dispatch.ulivetv.net/v/live/clect8xzw534.m3u8?stream_id=clect8xzw534&token=c0vzuc7wqkzk
 ELTA影剧,https://us.dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl7cqioy0kao&token=c0vzuc7wqkzk
-ELTA戏剧,https://us.dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&token=c0vzuc7wqkzk
+EYETV戏剧,https://us.dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&token=c0vzuc7wqkzk
 卫视电影,https://us.dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&token=c0vzuc7wqkzk
 星卫娱乐,https://us.dispatch.ulivetv.net/v/live/cl7csf4rd2gw.m3u8?stream_id=cl7csf4rd2gw&token=c0vzuc7wqkzk
 纬来体育,https://us.dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&token=c0vzuc7wqkzk
