@@ -605,15 +605,14 @@ CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 上海第一财经,http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
 上海纪实,http://www.icancloud.top:8888/udp/239.3.1.212:8060$北京联通1
-乐游,http://58.34.204.67:9901/tsfile/live/1010_1.m3u8
-乐游,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
-哈哈炫动,http://op.nicker.top:3222/udp/239.11.0.64:5140
 上海纪实,http://183.65.9.200:8888/udp/235.254.199.122:7980#http://125.82.171.210:8888/udp/235.254.199.122:7980#http://14.105.22.165:1388/udp/235.254.199.122:7980
-东方财经,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 上海新闻综合,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
 上视外语频道,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
 东方财经,https://live.goodiptv.club/api/ghyx.php?id=DongFangCaiJingHD_6000
+东方财经,https://live.goodiptv.club/api/cqyx.php?id=dfcj
+东方财经,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+东方财经,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 上海新闻综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 上视外语频道,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
@@ -978,6 +977,9 @@ iHOT爱动漫,http://39.134.136.160:6610/000000001000/6000000006000280630/index.
 精彩影视,http://39.134.136.160:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 求索科学,http://39.134.136.160:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://39.134.136.160:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+求索动物,http://60.208.16.27:1505/gudou.php?id=364&id=QSDWHD_7000
+求索记录,http://183.65.9.200:8888/udp/235.254.199.251:7980
+求索科学,http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
 探索纪实,http://39.134.136.160:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
 少儿动漫,http://39.134.136.160:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
 风云音乐,http://39.134.136.160:6610/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
@@ -996,9 +998,6 @@ CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 健康养生,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
-求索动物,http://60.208.16.27:1505/gudou.php?id=364&id=QSDWHD_7000
-求索记录,http://183.65.9.200:8888/udp/235.254.199.251:7980
-求索科学,http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
 金鹰纪实,http://cntv.dfkj.live/bestv.php?id=jyjs8m/8000000
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
@@ -1007,7 +1006,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 求索记录,http://60.208.16.27:1505/gudou.php?id=364&id=QSJLHD_7000
 求索记录,http://183.65.9.200:8888/udp/235.254.199.251:7980#http://125.82.171.210:8888/udp/235.254.199.251:7980#http://14.105.22.165:1388/udp/235.254.199.251:7980
-全纪实,http://183.65.9.200:8888/udp/235.254.197.153:7980#http://125.82.171.210:8888/udp/235.254.197.153:7980#http://14.105.22.165:1388/udp/235.254.197.153:7980
+乐游,http://183.65.9.200:8888/udp/235.254.197.153:7980#http://125.82.171.210:8888/udp/235.254.197.153:7980#http://14.105.22.165:1388/udp/235.254.197.153:7980
 CHC家庭影院,http://183.65.9.200:8888/udp/235.254.199.246:7980#http://125.82.171.210:8888/udp/235.254.199.246:7980#http://14.105.22.165:1388/udp/235.254.199.246:7980
 CHC动作电影,http://183.65.9.200:8888/udp/235.254.199.247:7980#http://125.82.171.210:8888/udp/235.254.199.247:7980#http://14.105.22.165:1388/udp/235.254.199.247:7980
 CHC高清电影,http://183.65.9.200:8888/udp/235.254.199.248:7980#http://125.82.171.210:8888/udp/235.254.199.248:7980#http://14.105.22.165:1388/udp/235.254.199.248:7980
@@ -1019,8 +1018,7 @@ CBN幸福娱乐,http://183.65.9.200:8888/udp/235.254.199.195:7980#http://125.82.
 中国交通,http://183.65.9.200:8888/udp/235.254.199.165:7980#http://125.82.171.210:8888/udp/235.254.199.165:7980#http://14.105.22.165:1388/udp/235.254.199.165:7980
 茶频道,http://183.65.9.200:8888/udp/235.254.199.198:7980#http://125.82.171.210:8888/udp/235.254.199.198:7980#http://14.105.22.165:1388/udp/235.254.199.198:7980
 快乐垂钓,http://183.65.9.200:8888/udp/235.254.199.191:7980#http://125.82.171.210:8888/udp/235.254.199.191:7980#http://14.105.22.165:1388/udp/235.254.199.191:7980
-CETV-1,http://183.65.9.200:8888/udp/235.254.199.196:7980#http://125.82.171.210:8888/udp/235.254.199.196:7980#http://14.105.22.165:1388/udp/235.254.199.196:7980
-city都市剧场,http://183.65.9.200:8888/udp/235.254.197.151:7980#http://125.82.171.210:8888/udp/235.254.197.151:7980#http://14.105.22.165:1388/udp/235.254.197.151:7980
+都市剧场,http://183.65.9.200:8888/udp/235.254.197.151:7980#http://125.82.171.210:8888/udp/235.254.197.151:7980#http://14.105.22.165:1388/udp/235.254.197.151:7980
 动漫秀场,http://183.65.9.200:8888/udp/235.254.197.152:7980#http://125.82.171.210:8888/udp/235.254.197.152:7980#http://14.105.22.165:1388/udp/235.254.197.152:7980
 法治天地,http://183.65.9.200:8888/udp/235.254.197.154:7980#http://125.82.171.210:8888/udp/235.254.197.154:7980#http://14.105.22.165:1388/udp/235.254.197.154:7980
 金色学堂,http://183.65.9.200:8888/udp/235.254.197.157:7980#http://125.82.171.210:8888/udp/235.254.197.157:7980#http://14.105.22.165:1388/udp/235.254.197.157:7980
@@ -1069,7 +1067,9 @@ CHC动作电影,https://live.goodiptv.club/aishang/chcdzdy
 CHC高清电影,https://live.goodiptv.club/aishang/chcgqdy
 CHC家庭影院,https://live.goodiptv.club/aishang/chcjtyy
 CETV-1,https://live.goodiptv.club/aishang/cetv1hd
+CETV-1,http://183.65.9.200:8888/udp/235.254.199.196:7980#http://125.82.171.210:8888/udp/235.254.199.196:7980#http://14.105.22.165:1388/udp/235.254.199.196:7980
 CETV-2,https://live.goodiptv.club/aishang/cetv2
+CETV-3,https://live.goodiptv.club/api/ghyx.php?id=CETV3HD_2000
 CETV-4,https://live.goodiptv.club/aishang/cetv4
 金鹰纪实,https://live.goodiptv.club/aishang/jyjs
 金鹰卡通,https://live.goodiptv.club/aishang/jykt
@@ -1085,7 +1085,7 @@ CETV-4,https://live.goodiptv.club/aishang/cetv4
 快乐垂钓,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
 金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
 戏曲精选,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-全纪实,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
+乐游,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
 生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 游戏风云,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
@@ -1109,7 +1109,6 @@ CETV-4,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
 茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 足球,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
 炫动卡通,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-东方财经,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
 都市剧场,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
 动漫秀场,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
 法治天地,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
@@ -1130,7 +1129,6 @@ CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
 早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 爱看导视,https://live.goodiptv.club/api/cqyx.php?id=aikanHD
 重广融媒,https://live.goodiptv.club/api/cqyx.php?id=cqrongmei
-东方财经,https://live.goodiptv.club/api/cqyx.php?id=dfcj
 证券服务,https://live.goodiptv.club/api/cqyx.php?id=jiazheng
 书画,https://live.goodiptv.club/api/cqyx.php?id=shuhua
 新动漫,https://live.goodiptv.club/api/cqyx.php?id=dongman
@@ -1161,8 +1159,10 @@ CHC动作电影,https://live.goodiptv.club/api/ghyx.php?id=MotionHD_2000
 生态环境,https://live.goodiptv.club/api/ghyx.php?id=XinYuLeHD_2000
 中国气象,https://live.goodiptv.club/api/ghyx.php?id=ChinaQiXiangPinDaoHD_2000
 乐游,https://live.goodiptv.club/api/ghyx.php?id=QuanJiShiHD_6000
+乐游,http://58.34.204.67:9901/tsfile/live/1010_1.m3u8
+乐游,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
+哈哈炫动,http://op.nicker.top:3222/udp/239.11.0.64:5140
 CETV-1,https://live.goodiptv.club/api/ghyx.php?id=CETV1HD_6000
-CETV-3,https://live.goodiptv.club/api/ghyx.php?id=CETV3HD_2000
 CETV-4,https://live.goodiptv.club/api/ghyx.php?id=CETV4HD_2000
 早期教育,https://live.goodiptv.club/api/ghyx.php?id=ZaoQiJiaoYuHD_2000
 动漫秀场,https://live.goodiptv.club/api/ghyx.php?id=DongManXiuChangHD_6000
@@ -1189,7 +1189,7 @@ CETV-4,https://live.goodiptv.club/api/ghyx.php?id=CETV4HD_2000
 快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
 金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
 戏曲精选,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
-全纪实,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
+乐游,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
 生活时尚,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
 新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 游戏风云,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
