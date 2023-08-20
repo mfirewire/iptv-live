@@ -1654,14 +1654,14 @@ Animax卡通,https://us.dispatch.ulivetv.net/v/live/cl7cf8045n7k.m3u8?stream_id=
 亚洲旅游台,https://us.dispatch.ulivetv.net/v/live/cl7cikas48n4.m3u8?stream_id=cl7cikas48n4&token=c0vzuc7wqkzk
 美食星球,https://us.dispatch.ulivetv.net/v/live/cl7cq7br5d4w.m3u8?stream_id=cl7cq7br5d4w&token=c0vzuc7wqkzk
 EYETV旅游,https://us.dispatch.ulivetv.net/v/live/cl7crdhyxn0g.m3u8?stream_id=cl7crdhyxn0g&token=c0vzuc7wqkzk
-ABC新闻,https://us.dispatch.ulivetv.net/v/live/cfxyzlerqda8.m3u8?stream_id=cfxyzlerqda8&token=c0vzuc7wqkzk
-FOX新闻,https://us.dispatch.ulivetv.net/v/live/cfy0k34f522o.m3u8?stream_id=cfy0k34f522o&token=c0vzuc7wqkzk
+ABCNews,https://us.dispatch.ulivetv.net/v/live/cfxyzlerqda8.m3u8?stream_id=cfxyzlerqda8&token=c0vzuc7wqkzk
+FoxNews,https://us.dispatch.ulivetv.net/v/live/cfy0k34f522o.m3u8?stream_id=cfy0k34f522o&token=c0vzuc7wqkzk
 CNN,https://us.dispatch.ulivetv.net/v/live/cfxzi2gyzutc.m3u8?stream_id=cfxzi2gyzutc&token=c0vzuc7wqkzk
-CBS新闻,https://us.dispatch.ulivetv.net/v/live/cfxz3f9zhayo.m3u8?stream_id=cfxz3f9zhayo&token=c0vzuc7wqkzk
+CBSNews,https://us.dispatch.ulivetv.net/v/live/cfxz3f9zhayo.m3u8?stream_id=cfxz3f9zhayo&token=c0vzuc7wqkzk
 CNBC,https://us.dispatch.ulivetv.net/v/live/cl7cdjqouc3k.m3u8?stream_id=cl7cdjqouc3k&token=c0vzuc7wqkzk
 HLN,https://us.dispatch.ulivetv.net/v/live/cl7cstetysao.m3u8?stream_id=cl7cstetysao&token=c0vzuc7wqkzk
 CNN,https://us.dispatch.ulivetv.net/v/live/cl7ct8ccm6yo.m3u8?stream_id=cl7ct8ccm6yo&token=c0vzuc7wqkzk
-欧洲新闻,https://us.dispatch.ulivetv.net/v/live/cl7ctk7x8hq8.m3u8?stream_id=cl7ctk7x8hq8&token=c0vzuc7wqkzk
+EuroNews,https://us.dispatch.ulivetv.net/v/live/cl7ctk7x8hq8.m3u8?stream_id=cl7ctk7x8hq8&token=c0vzuc7wqkzk
 Channel 5,https://us.dispatch.ulivetv.net/v/live/ciw8hkwsa2tc.m3u8?stream_id=ciw8hkwsa2tc&token=c0vzuc7wqkzk
 Channel U,https://us.dispatch.ulivetv.net/v/live/ciw8h6xy7wzk.m3u8?stream_id=ciw8h6xy7wzk&token=c0vzuc7wqkzk
 OKEY,https://us.dispatch.ulivetv.net/v/live/ciw8fwr1be0w.m3u8?stream_id=ciw8fwr1be0w&token=c0vzuc7wqkzk
@@ -1867,8 +1867,8 @@ BEIN 2 Sports,http://198.16.100.90:8278/Bein2hd/playlist.m3u8?tid=MA7A5079743450
 BloombergNews,http://198.16.100.90:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
 Boomerang,http://198.16.100.90:8278/Boomerang/playlist.m3u8?tid=MBFB8899351888993518&ct=19254&tsum=f71dd7b0e6a7b9835cf74808aae1c4f7
 CBBC,http://198.16.100.90:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
-CBS,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-CBS,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+CBSNews,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
 Muslim TV,http://198.16.100.90:8278/MuslimTV/playlist.m3u8?tid=MC4C3088884830888848&ct=19249&tsum=d1cd20fb991a3bee32ccd5cc6c7838b1
 itv1,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
 tvNMovie,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
@@ -1929,8 +1929,8 @@ CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423
 CNBC,http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
 BBC WorldNews,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
 BloombergNews,http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-CBS,http://50.7.238.114:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-CBS,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+CBSNews,http://50.7.238.114:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
 ABCNews,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 ABCNews,http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
@@ -2172,7 +2172,7 @@ DW English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+ABCNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 France24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
@@ -2402,7 +2402,7 @@ SPOTV2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stre
 CNN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
 BBC WorldNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
 Sky News,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941684
-FOX News Channel,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
+FOXNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
 EuroNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941686
 DW English,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941687
 CNBC,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941689
