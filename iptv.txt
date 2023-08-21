@@ -242,6 +242,7 @@ CGTN-英语,https://live.goodiptv.club/api/sxg.php?id=CGTN_4000
 CGTN-英语,https://live.goodiptv.club/aishang/cgtnhd
 CGTN-英语,https://live.goodiptv.club/api/yqgd.php?id=cgtn
 CGTN-英语,https://live.goodiptv.club/api/cqyx.php?id=cgtnSD
+CGTN-英语,http://live.cgtn.com/500/prog_index.m3u8
 CGTN-法语,https://live.goodiptv.club/api/sxg.php?id=fy_2000
 CGTN-西语,https://live.goodiptv.club/api/sxg.php?id=xbyy_2000
 CGTN-俄语,https://live.goodiptv.club/api/sxg.php?id=ey_2000
@@ -268,6 +269,7 @@ CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 
 卫视,#genre#
 湖南卫视,http://183.65.9.200:8888/udp/235.254.199.62:7980#http://125.82.171.210:8888/udp/235.254.199.62:7980#http://14.105.22.165:1388/udp/235.254.199.62:7980
@@ -1682,7 +1684,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-CGTN,http://live.cgtn.com/500/prog_index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -1965,13 +1966,11 @@ momo购物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 东森购物3台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 东森购物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 非凡新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 美好购物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
@@ -4246,6 +4245,7 @@ JP| TBS,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1
 JP| TOKYO MX1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1076037&extension=ts&play_token=49Ec5ux7L4
 JP| JAPANIM TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1079723&extension=ts&play_token=T3UKsxnNQu
 JP| TOKYO NOW,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=763885&extension=ts&play_token=bDlskX1lt5
+TBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 
 SOUTH KOREA,#genre#
 Arirang,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156436&extension=ts&play_token=PK29Faw33a
