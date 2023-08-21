@@ -1474,6 +1474,8 @@ TVBS新闻,https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cf
 镜天资讯,https://us.dispatch.ulivetv.net/v/live/cg16rqyr0wqo.m3u8?stream_id=cg16rqyr0wqo&token=c0vzuc7wqkzk
 中视新闻,https://us.dispatch.ulivetv.net/v/live/clev54g636bk.m3u8?stream_id=clev54g636bk&token=c0vzuc7wqkzk
 台视新闻,https://us.dispatch.ulivetv.net/v/live/clevc7agnphc.m3u8?stream_id=clevc7agnphc&token=c0vzuc7wqkzk
+三立新闻,http://sc2022.stream-link.org/list.php?id=t010
+三立新闻,http://sc2022.stream-link.org/list.php?id=t011
 中天新闻,http://sc2022.stream-link.org/list.php?id=t003
 东森新闻,http://sc2022.stream-link.org/list.php?id=t001
 东森新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-18617bfd-c179-4b64-beb7-88f7af03cc61.m3u8?by=yeslivetv_com
@@ -1487,8 +1489,6 @@ TVBS新闻,https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cf
 东森新闻美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 寰宇新闻,http://2023.stream-link.org/live/1666533776
 三立财经新闻,http://sc2022.stream-link.org/list.php?id=t009
-三立新闻,http://sc2022.stream-link.org/list.php?id=t010
-三立新闻,http://sc2022.stream-link.org/list.php?id=t011
 台视新闻,http://sc2022.stream-link.org/list.php?id=t012
 TVBS财经,http://2023.stream-link.org/live/1767909787
 TVBS,https://us.dispatch.ulivetv.net/v/live/cl7c4wxioc00.m3u8?stream_id=cl7c4wxioc00&token=c0vzuc7wqkzk
@@ -1538,27 +1538,6 @@ History,https://us.dispatch.ulivetv.net/v/live/cl7ch406n6ww.m3u8?stream_id=cl7ch
 History2,https://us.dispatch.ulivetv.net/v/live/cl7chgdb1t4w.m3u8?stream_id=cl7chgdb1t4w&token=c0vzuc7wqkzk
 TLC,https://us.dispatch.ulivetv.net/v/live/cl7chv63w4ao.m3u8?stream_id=cl7chv63w4ao&token=c0vzuc7wqkzk
 CI,https://us.dispatch.ulivetv.net/v/live/cl7ci6wopq68.m3u8?stream_id=cl7ci6wopq68&token=c0vzuc7wqkzk
-Astro Awani,https://us.dispatch.ulivetv.net/v/live/cg4v87c6i3ls.m3u8?stream_id=cg4v87c6i3ls&token=c0vzuc7wqkzk
-Astro Ceria,https://us.dispatch.ulivetv.net/v/live/cfmxywjomi0w.m3u8?stream_id=cfmxywjomi0w&token=c0vzuc7wqkzk
-Astro ONE,https://us.dispatch.ulivetv.net/v/live/cg48t03y5xvk.m3u8?stream_id=cg48t03y5xvk&token=c0vzuc7wqkzk
-Astro Prima,https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&token=c0vzuc7wqkzk
-Astro Oasis,https://us.dispatch.ulivetv.net/v/live/cg49i1nvcmo0.m3u8?stream_id=cg49i1nvcmo0&token=c0vzuc7wqkzk
-Astro Warna,https://us.dispatch.ulivetv.net/v/live/cg4ao9s4cbeo.m3u8?stream_id=cg4ao9s4cbeo&token=c0vzuc7wqkzk
-Astro Rania,https://us.dispatch.ulivetv.net/v/live/cg4c3q8mzqv4.m3u8?stream_id=cg4c3q8mzqv4&token=c0vzuc7wqkzk
-Astro Aura,https://us.dispatch.ulivetv.net/v/live/cg4c4f8bf6bk.m3u8?stream_id=cg4c4f8bf6bk&token=c0vzuc7wqkzk
-Astro 8TV,https://us.dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&token=c0vzuc7wqkzk
-Astro TV9,https://us.dispatch.ulivetv.net/v/live/cg4c68lu92v4.m3u8?stream_id=cg4c68lu92v4&token=c0vzuc7wqkzk
-Astro Citra,https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&token=c0vzuc7wqkzk
-Astro AEC,https://us.dispatch.ulivetv.net/v/live/cg4cpixuofy8.m3u8?stream_id=cg4cpixuofy8&token=c0vzuc7wqkzk
-Astro 双星台,https://us.dispatch.ulivetv.net/v/live/cg4csztqx8sg.m3u8?stream_id=cg4csztqx8sg&token=c0vzuc7wqkzk
-Astro 全佳台,https://us.dispatch.ulivetv.net/v/live/cg4cwtbppkg0.m3u8?stream_id=cg4cwtbppkg0&token=c0vzuc7wqkzk
-Astro AOD,https://us.dispatch.ulivetv.net/v/live/cg4kl3517qv4.m3u8?stream_id=cg4kl3517qv4&token=c0vzuc7wqkzk
-Astro 欢喜台,https://us.dispatch.ulivetv.net/v/live/cg4leoie68xs.m3u8?stream_id=cg4leoie68xs&token=c0vzuc7wqkzk
-Astro AOD,https://us.dispatch.ulivetv.net/v/live/cg4lieo5chj4.m3u8?stream_id=cg4lieo5chj4&token=c0vzuc7wqkzk
-Astro Arena,https://us.dispatch.ulivetv.net/v/live/cg4vc57lvzy8.m3u8?stream_id=cg4vc57lvzy8&token=c0vzuc7wqkzk
-Astro Arena2,https://us.dispatch.ulivetv.net/v/live/cg4vigttsr0g.m3u8?stream_id=cg4vigttsr0g&token=c0vzuc7wqkzk
-Astro 爱奇艺,https://us.dispatch.ulivetv.net/v/live/cgbws364354w.m3u8?stream_id=cgbws364354w&token=c0vzuc7wqkzk
-Astro 欢喜台,https://us.dispatch.ulivetv.net/v/live/ciw8fimzyu9s.m3u8?stream_id=ciw8fimzyu9s&token=c0vzuc7wqkzk
 八大戏剧,http://50.7.238.114:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
 八大综合,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
 CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
@@ -1611,8 +1590,31 @@ ELTA影剧,https://us.dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl
 EYETV戏剧,https://us.dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&token=c0vzuc7wqkzk
 星卫电影,https://us.dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&token=c0vzuc7wqkzk
 星卫娱乐,https://us.dispatch.ulivetv.net/v/live/cl7csf4rd2gw.m3u8?stream_id=cl7csf4rd2gw&token=c0vzuc7wqkzk
-靖天卡通,https://us.dispatch.ulivetv.net/v/live/cg16vy7fp9s0.m3u8?stream_id=cg16vy7fp9s0&token=c0vzuc7wqkzk
+Astro Awani,https://us.dispatch.ulivetv.net/v/live/cg4v87c6i3ls.m3u8?stream_id=cg4v87c6i3ls&token=c0vzuc7wqkzk
+Astro Ceria,https://us.dispatch.ulivetv.net/v/live/cfmxywjomi0w.m3u8?stream_id=cfmxywjomi0w&token=c0vzuc7wqkzk
+Astro ONE,https://us.dispatch.ulivetv.net/v/live/cg48t03y5xvk.m3u8?stream_id=cg48t03y5xvk&token=c0vzuc7wqkzk
+Astro Prima,https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&token=c0vzuc7wqkzk
+Astro Oasis,https://us.dispatch.ulivetv.net/v/live/cg49i1nvcmo0.m3u8?stream_id=cg49i1nvcmo0&token=c0vzuc7wqkzk
+Astro Warna,https://us.dispatch.ulivetv.net/v/live/cg4ao9s4cbeo.m3u8?stream_id=cg4ao9s4cbeo&token=c0vzuc7wqkzk
+Astro Rania,https://us.dispatch.ulivetv.net/v/live/cg4c3q8mzqv4.m3u8?stream_id=cg4c3q8mzqv4&token=c0vzuc7wqkzk
+Astro Aura,https://us.dispatch.ulivetv.net/v/live/cg4c4f8bf6bk.m3u8?stream_id=cg4c4f8bf6bk&token=c0vzuc7wqkzk
+Astro 8TV,https://us.dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&token=c0vzuc7wqkzk
+Astro TV9,https://us.dispatch.ulivetv.net/v/live/cg4c68lu92v4.m3u8?stream_id=cg4c68lu92v4&token=c0vzuc7wqkzk
+Astro Citra,https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&token=c0vzuc7wqkzk
+Astro AEC,https://us.dispatch.ulivetv.net/v/live/cg4cpixuofy8.m3u8?stream_id=cg4cpixuofy8&token=c0vzuc7wqkzk
+Astro 双星台,https://us.dispatch.ulivetv.net/v/live/cg4csztqx8sg.m3u8?stream_id=cg4csztqx8sg&token=c0vzuc7wqkzk
+Astro 全佳台,https://us.dispatch.ulivetv.net/v/live/cg4cwtbppkg0.m3u8?stream_id=cg4cwtbppkg0&token=c0vzuc7wqkzk
+Astro AOD,https://us.dispatch.ulivetv.net/v/live/cg4kl3517qv4.m3u8?stream_id=cg4kl3517qv4&token=c0vzuc7wqkzk
+Astro 欢喜台,https://us.dispatch.ulivetv.net/v/live/cg4leoie68xs.m3u8?stream_id=cg4leoie68xs&token=c0vzuc7wqkzk
+Astro AOD,https://us.dispatch.ulivetv.net/v/live/cg4lieo5chj4.m3u8?stream_id=cg4lieo5chj4&token=c0vzuc7wqkzk
+Astro Arena,https://us.dispatch.ulivetv.net/v/live/cg4vc57lvzy8.m3u8?stream_id=cg4vc57lvzy8&token=c0vzuc7wqkzk
+Astro Arena2,https://us.dispatch.ulivetv.net/v/live/cg4vigttsr0g.m3u8?stream_id=cg4vigttsr0g&token=c0vzuc7wqkzk
+Astro 爱奇艺,https://us.dispatch.ulivetv.net/v/live/cgbws364354w.m3u8?stream_id=cgbws364354w&token=c0vzuc7wqkzk
+Astro 欢喜台,https://us.dispatch.ulivetv.net/v/live/ciw8fimzyu9s.m3u8?stream_id=ciw8fimzyu9s&token=c0vzuc7wqkzk
 Astro 小太阳,https://us.dispatch.ulivetv.net/v/live/cgbwueb4f8hs.m3u8?stream_id=cgbwueb4f8hs&token=c0vzuc7wqkzk
+Astro 小太阳,http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
+Astro 欢喜台,http://198.16.100.90:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
+靖天卡通,https://us.dispatch.ulivetv.net/v/live/cg16vy7fp9s0.m3u8?stream_id=cg16vy7fp9s0&token=c0vzuc7wqkzk
 东森幼幼,https://us.dispatch.ulivetv.net/v/live/ciw8f5pwdghs.m3u8?stream_id=ciw8f5pwdghs&token=c0vzuc7wqkzk
 MOMOTV,https://us.dispatch.ulivetv.net/v/live/ciw8e2mbl9z4.m3u8?stream_id=ciw8e2mbl9z4&token=c0vzuc7wqkzk
 迪斯尼频道,https://us.dispatch.ulivetv.net/v/live/cl7ccczgethc.m3u8?stream_id=cl7ccczgethc&token=c0vzuc7wqkzk
@@ -1621,7 +1623,7 @@ MOMO亲子,https://us.dispatch.ulivetv.net/v/live/cl7cd4sc85a8.m3u8?stream_id=cl
 CN卡通,https://us.dispatch.ulivetv.net/v/live/cl7cebyhju80.m3u8?stream_id=cl7cebyhju80&token=c0vzuc7wqkzk
 Bloomeranq,https://us.dispatch.ulivetv.net/v/live/cl7cetj6bz5s.m3u8?stream_id=cl7cetj6bz5s&token=c0vzuc7wqkzk
 Animax卡通,https://us.dispatch.ulivetv.net/v/live/cl7cf8045n7k.m3u8?stream_id=cl7cf8045n7k&token=c0vzuc7wqkzk
-尼克儿童频道,https://us.dispatch.ulivetv.net/v/live/clecty3pkqm8.m3u8?stream_id=clecty3pkqm8&token=c0vzuc7wqkzk
+小尼克频道,https://us.dispatch.ulivetv.net/v/live/clecty3pkqm8.m3u8?stream_id=clecty3pkqm8&token=c0vzuc7wqkzk
 亚洲旅游台,https://us.dispatch.ulivetv.net/v/live/cl7cikas48n4.m3u8?stream_id=cl7cikas48n4&token=c0vzuc7wqkzk
 美食星球,https://us.dispatch.ulivetv.net/v/live/cl7cq7br5d4w.m3u8?stream_id=cl7cq7br5d4w&token=c0vzuc7wqkzk
 EYETV旅游,https://us.dispatch.ulivetv.net/v/live/cl7crdhyxn0g.m3u8?stream_id=cl7crdhyxn0g&token=c0vzuc7wqkzk
@@ -1702,8 +1704,6 @@ CGTN,http://live.cgtn.com/500/prog_index.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-ELEVEN1,http://198.16.100.90:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
-ELEVEN2,http://198.16.100.90:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
@@ -1713,21 +1713,16 @@ TVBS欢乐,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A411140
 东森幼幼,http://198.16.100.90:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 东森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-thai3,http://198.16.100.90:8278/tpbs_pat/playlist.m3u8?tid=MF9F9580758695807586&ct=19249&tsum=e2992a8627dbfd1cb4ac975efe0a195a
-itv 2,http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
-iNews TV,http://198.16.100.90:8278/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
 龙祥时代,http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 龙华偶像,http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 龙华卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
 非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 美亚电影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-Arirang,http://198.16.100.90:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 民视新闻,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民视,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 年代新闻,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 好消息,http://198.16.100.90:8278/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15652178c428
 大爱一台,http://198.16.100.90:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
-博斯运动 1,http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 八大综合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
 中视新闻,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中视,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
@@ -1745,49 +1740,6 @@ TVBS新闻,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MA4A22332601223326
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 EYETV旅游,http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
 TVBS欢乐,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-Workpoint,http://198.16.100.90:8278/workpoint_pat/playlist.m3u8?tid=MCDC7589889875898898&ct=19249&tsum=aec91b5921df44a3b6ca035785d47781
-Warner TV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
-Vision Prime,http://198.16.100.90:8278/VisionPrime/playlist.m3u8?tid=MAFA7925284679252846&ct=19249&tsum=775468fd4a124f17bdd61e9147b32ea9
-Vasantham,http://198.16.100.90:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-Tvone,http://198.16.100.90:8278/Tvone/playlist.m3u8?tid=MB8B7419376174193761&ct=19249&tsum=a00bd93ffc12fe4d1c9aa4c996a10679
-TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
-True Premium 2,http://198.16.100.90:8278/truepre2_pat/playlist.m3u8?tid=MD7D6803914668039146&ct=19249&tsum=896db6668d2b4a7ad693b44ab39fcd22
-True Premium 1,http://198.16.100.90:8278/truepre1_pat/playlist.m3u8?tid=MCEC6796185367961853&ct=19249&tsum=9ab501851eed281c85dc762c6b915c47
-Transtv,http://198.16.100.90:8278/Transtv/playlist.m3u8?tid=MCFC2537709525377095&ct=19249&tsum=dcb22c095fc52f971f7dea381f456a43
-Trans 7,http://198.16.100.90:8278/Trans7_eko/playlist.m3u8?tid=MABA8459856784598567&ct=19249&tsum=355af3a5c5bdf35204c638fb2076d199
-Tnn24,http://198.16.100.90:8278/tnn24_pat/playlist.m3u8?tid=MA1A4244094842440948&ct=19249&tsum=0913ba2ca4190c831479ae37a7517664
-Thrill,http://198.16.100.90:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
-Thairath,http://198.16.100.90:8278/thairath_pat/playlist.m3u8?tid=MECE9015936090159360&ct=19249&tsum=121111fd265864bd10f9991cb6398d90
-Tawaf TV,http://198.16.100.90:8278/TawafTV/playlist.m3u8?tid=MBCB5614836656148366&ct=19249&tsum=36b068ac8156d98ace6adfe2f490ff3f
-TVRI National,http://198.16.100.90:8278/TVRI/playlist.m3u8?tid=MBEB3773542337735423&ct=19249&tsum=9a00b24e2d7d7ac6a58ce692c2147e2e
-TVMU,http://198.16.100.90:8278/TVMU_eko/playlist.m3u8?tid=MFDF7570582975705829&ct=19249&tsum=5c6fe52ffe5b5cea936a79344042abef
-TV9,http://198.16.100.90:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
-TV9 Indonesia,http://198.16.100.90:8278/TV9_eko/playlist.m3u8?tid=MF4F9337624493376244&ct=19249&tsum=c0c0a819b22ab768c25d0ac336f514e5
-TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
-TV3,http://198.16.100.90:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
-TV3,http://198.16.100.90:8278/TV3_backup/playlist.m3u8?tid=MA3A2227976222279762&ct=19249&tsum=f74de478f6a153a62550be93406fc29c
-TV2,http://198.16.100.90:8278/TV2/playlist.m3u8?tid=MBFB5221296352212963&ct=19249&tsum=c67dd739f98d016c5553f838aad85446
-TV1,http://198.16.100.90:8278/TV1/playlist.m3u8?tid=MC7C8155208481552084&ct=19249&tsum=298dc1db831fd77434f364d0fc12793f
-TPTV,http://198.16.100.90:8278/tptv_pat/playlist.m3u8?tid=MA0A1085390910853909&ct=19249&tsum=f1dddc0f6c6af52ac954606b2f0df88d
-TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
-Suria,http://198.16.100.90:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
-One,http://198.16.100.90:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9
-Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
-SCTV,http://198.16.100.90:8278/Sctv/playlist.m3u8?tid=MEAE5576803555768035&ct=19249&tsum=22cd08338943a038eb9a5bcf2ff7cba3
-SCM,http://198.16.100.90:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
-RTM Sports,http://198.16.100.90:8278/Rtmsport/playlist.m3u8?tid=MF8F1702154217021542&ct=19249&tsum=e027d4717db55d11df07ebe27f5eb3a5
-RCTI,http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
-Quran,http://198.16.100.90:8278/quran_mido/playlist.m3u8?tid=MDBD3234169932341699&ct=19249&tsum=9ab67cfe5792350388a7777b56fa3108
-Astro Prima,http://198.16.100.90:8278/Prima/playlist.m3u8?tid=MDCD7525162675251626&ct=19249&tsum=baa42cb947105579e476ec0c5b71043d
-Pick TV,http://198.16.100.90:8278/picktv_antik/playlist.m3u8?tid=MB5B4434522744345227&ct=19249&tsum=b97fd4168586dc65fbe4ac3cd28d8240
-PPTV Thailand1,http://198.16.100.90:8278/pptv_pat/playlist.m3u8?tid=MC2C3662850236628502&ct=19249&tsum=efb951731b4d0d420dedc866c9fa789f
-One,http://198.16.100.90:8278/One/playlist.m3u8?tid=MC4C3559816135598161&ct=19249&tsum=dce7930990cd11c5385de1298a06c226
-Astro Oasis,http://198.16.100.90:8278/Oasis/playlist.m3u8?tid=MABA2020629120206291&ct=19249&tsum=46be05252007b1efaae28ae3ab4cc7bb
-Nickelodeon,http://198.16.100.90:8278/Nickelodeon/playlist.m3u8?tid=MBBB9174743591747435&ct=19249&tsum=9901089db6361b9cafc0ab9de5612bee
-Nick Jr,http://198.16.100.90:8278/Nickjr/playlist.m3u8?tid=MFCF1347936613479366&ct=19249&tsum=547e162f9338962a46e76507dbf7d1e4
-New,http://198.16.100.90:8278/new_pat/playlist.m3u8?tid=MA8A7659271276592712&ct=19249&tsum=116a75787eb362c83802c370eee554d5
-Net TV,http://198.16.100.90:8278/NetTV/playlist.m3u8?tid=MB0B1364823413648234&ct=19249&tsum=4109bb7ef2f8a60d80af6c88a23ce242
-Nation,http://198.16.100.90:8278/nation_pat/playlist.m3u8?tid=MB1B9139560291395602&ct=19249&tsum=ce6f7c87a3c920df0d5212ee4b98ba18
 国家地理,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 野生动物,http://198.16.100.90:8278/natgeowildtamil_raj/playlist.m3u8?tid=MA3A7576802775768027&ct=19249&tsum=38e4069aeedc94944ccb5122c294c939
 野生动物,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MF6F5354447153544471&ct=19249&tsum=fcc679b64dded7ec1ff6a0f09e335f38
@@ -1806,35 +1758,18 @@ AXN台湾,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MC6C98759390987593
 Astro Awani,http://198.16.100.90:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=19254&tsum=b13ed0c5ea09f584d34097329df9150b
 AXN台湾,http://198.16.100.90:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
 CNBC,http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
-CelestialMoviesHD,http://198.16.100.90:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
-Channel3Thailand,http://198.16.100.90:8278/ch3_pat/playlist.m3u8?tid=MB6B7545566875455668&ct=19254&tsum=80c0722e6c93923edad559f6b70efb47
 探索亚洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 探索频道,http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 DiscoveryKidsTamil,http://198.16.100.90:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e
 探索动力,http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MA4A9062409890624098&ct=19254&tsum=a08aaae68298f6df5540cb41f9d7fdd5
 DiscoveryWorldTamil,http://198.16.100.90:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
 探索科学,http://198.16.100.90:8278/discoverysc_twn/playlist.m3u8?tid=MEDE7333306673333066&ct=19254&tsum=c17c57e395a30ccf636418530f7811a9
-BBC1,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
-BBC2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
-BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
-BBC Earth Tamil,http://198.16.100.90:8278/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
-BBC WorldNews,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-BloombergNews,http://198.16.100.90:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-Boomerang,http://198.16.100.90:8278/Boomerang/playlist.m3u8?tid=MBFB8899351888993518&ct=19254&tsum=f71dd7b0e6a7b9835cf74808aae1c4f7
-CBBC,http://198.16.100.90:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
-CBSNews,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
-Muslim TV,http://198.16.100.90:8278/MuslimTV/playlist.m3u8?tid=MC4C3088884830888848&ct=19249&tsum=d1cd20fb991a3bee32ccd5cc6c7838b1
-itv1,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
-tvNMovie,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
-TVN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
 龙祥时代,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 民视第一台,http://50.7.238.114:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
 龙华偶像,http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 龙华卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
 非凡新闻,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 美食星球,http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-Arirang,http://50.7.238.114:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 民视新闻,http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民视台湾台,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 民视,http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
@@ -1863,7 +1798,6 @@ HBO原创,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C575432
 八大综合,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 八大戏剧,http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
 八大第一台,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-纬来体育台,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 靖天国际台,http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
@@ -1875,18 +1809,6 @@ CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MFFF97974799979747
 AXN台湾,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
-CNBC,http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
-BBC WorldNews,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-BloombergNews,http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-CBSNews,http://50.7.238.114:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
-ABCNews,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-ABCNews,http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
-BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
-CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 探索频道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 EYETV戏剧,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
@@ -1954,8 +1876,6 @@ TVBS欢乐,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC
 龙祥时代,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 龙华戏剧,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 龙华戏剧,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
-Astro 小太阳,http://198.16.100.90:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
-Astro 欢喜台,http://198.16.100.90:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 BBC,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 BernamaTV,http://198.16.100.90:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
 民视,rtmp://119.81.124.89/sat/tv051
@@ -1990,10 +1910,8 @@ GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 ELTA娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
-Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 mezzo live,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
-智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 龙华日韩,http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
 亚洲旅游台,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
 美国之音,http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
@@ -2056,7 +1974,6 @@ CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 美丽人生购物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 中视新闻,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTVNews.m3u8
 三立新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 三立新闻,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETiLiveNews.m3u8
@@ -2105,7 +2022,6 @@ HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master
 国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 信吉电视台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 Al Jazeera,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-Arirang,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 东京浅草,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 优视频道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
@@ -2284,6 +2200,77 @@ History,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&str
 AXN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941660
 Warner TV,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941652
 CI,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941666
+BBC1,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
+BBC2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+BBC Earth Tamil,http://198.16.100.90:8278/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
+BBC WorldNews,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+BloombergNews,http://198.16.100.90:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+Boomerang,http://198.16.100.90:8278/Boomerang/playlist.m3u8?tid=MBFB8899351888993518&ct=19254&tsum=f71dd7b0e6a7b9835cf74808aae1c4f7
+CBBC,http://198.16.100.90:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
+CBSNews,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+thai3,http://198.16.100.90:8278/tpbs_pat/playlist.m3u8?tid=MF9F9580758695807586&ct=19249&tsum=e2992a8627dbfd1cb4ac975efe0a195a
+itv2,http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
+iNews TV,http://198.16.100.90:8278/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
+Workpoint,http://198.16.100.90:8278/workpoint_pat/playlist.m3u8?tid=MCDC7589889875898898&ct=19249&tsum=aec91b5921df44a3b6ca035785d47781
+Warner TV,http://198.16.100.90:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
+Vision Prime,http://198.16.100.90:8278/VisionPrime/playlist.m3u8?tid=MAFA7925284679252846&ct=19249&tsum=775468fd4a124f17bdd61e9147b32ea9
+Vasantham,http://198.16.100.90:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+Tvone,http://198.16.100.90:8278/Tvone/playlist.m3u8?tid=MB8B7419376174193761&ct=19249&tsum=a00bd93ffc12fe4d1c9aa4c996a10679
+TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
+Transtv,http://198.16.100.90:8278/Transtv/playlist.m3u8?tid=MCFC2537709525377095&ct=19249&tsum=dcb22c095fc52f971f7dea381f456a43
+Trans 7,http://198.16.100.90:8278/Trans7_eko/playlist.m3u8?tid=MABA8459856784598567&ct=19249&tsum=355af3a5c5bdf35204c638fb2076d199
+Tnn24,http://198.16.100.90:8278/tnn24_pat/playlist.m3u8?tid=MA1A4244094842440948&ct=19249&tsum=0913ba2ca4190c831479ae37a7517664
+Thrill,http://198.16.100.90:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
+Thairath,http://198.16.100.90:8278/thairath_pat/playlist.m3u8?tid=MECE9015936090159360&ct=19249&tsum=121111fd265864bd10f9991cb6398d90
+Tawaf TV,http://198.16.100.90:8278/TawafTV/playlist.m3u8?tid=MBCB5614836656148366&ct=19249&tsum=36b068ac8156d98ace6adfe2f490ff3f
+TVRI National,http://198.16.100.90:8278/TVRI/playlist.m3u8?tid=MBEB3773542337735423&ct=19249&tsum=9a00b24e2d7d7ac6a58ce692c2147e2e
+TVMU,http://198.16.100.90:8278/TVMU_eko/playlist.m3u8?tid=MFDF7570582975705829&ct=19249&tsum=5c6fe52ffe5b5cea936a79344042abef
+TV9,http://198.16.100.90:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
+TV9 Indonesia,http://198.16.100.90:8278/TV9_eko/playlist.m3u8?tid=MF4F9337624493376244&ct=19249&tsum=c0c0a819b22ab768c25d0ac336f514e5
+TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
+TV3,http://198.16.100.90:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
+TV3,http://198.16.100.90:8278/TV3_backup/playlist.m3u8?tid=MA3A2227976222279762&ct=19249&tsum=f74de478f6a153a62550be93406fc29c
+TV2,http://198.16.100.90:8278/TV2/playlist.m3u8?tid=MBFB5221296352212963&ct=19249&tsum=c67dd739f98d016c5553f838aad85446
+TV1,http://198.16.100.90:8278/TV1/playlist.m3u8?tid=MC7C8155208481552084&ct=19249&tsum=298dc1db831fd77434f364d0fc12793f
+TPTV,http://198.16.100.90:8278/tptv_pat/playlist.m3u8?tid=MA0A1085390910853909&ct=19249&tsum=f1dddc0f6c6af52ac954606b2f0df88d
+TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
+Suria,http://198.16.100.90:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
+One,http://198.16.100.90:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9
+Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+SCTV,http://198.16.100.90:8278/Sctv/playlist.m3u8?tid=MEAE5576803555768035&ct=19249&tsum=22cd08338943a038eb9a5bcf2ff7cba3
+SCM,http://198.16.100.90:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
+RCTI,http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
+Quran,http://198.16.100.90:8278/quran_mido/playlist.m3u8?tid=MDBD3234169932341699&ct=19249&tsum=9ab67cfe5792350388a7777b56fa3108
+Astro Prima,http://198.16.100.90:8278/Prima/playlist.m3u8?tid=MDCD7525162675251626&ct=19249&tsum=baa42cb947105579e476ec0c5b71043d
+Pick TV,http://198.16.100.90:8278/picktv_antik/playlist.m3u8?tid=MB5B4434522744345227&ct=19249&tsum=b97fd4168586dc65fbe4ac3cd28d8240
+PPTV Thailand1,http://198.16.100.90:8278/pptv_pat/playlist.m3u8?tid=MC2C3662850236628502&ct=19249&tsum=efb951731b4d0d420dedc866c9fa789f
+One,http://198.16.100.90:8278/One/playlist.m3u8?tid=MC4C3559816135598161&ct=19249&tsum=dce7930990cd11c5385de1298a06c226
+Astro Oasis,http://198.16.100.90:8278/Oasis/playlist.m3u8?tid=MABA2020629120206291&ct=19249&tsum=46be05252007b1efaae28ae3ab4cc7bb
+Nickelodeon,http://198.16.100.90:8278/Nickelodeon/playlist.m3u8?tid=MBBB9174743591747435&ct=19249&tsum=9901089db6361b9cafc0ab9de5612bee
+Nick Jr,http://198.16.100.90:8278/Nickjr/playlist.m3u8?tid=MFCF1347936613479366&ct=19249&tsum=547e162f9338962a46e76507dbf7d1e4
+New,http://198.16.100.90:8278/new_pat/playlist.m3u8?tid=MA8A7659271276592712&ct=19249&tsum=116a75787eb362c83802c370eee554d5
+Net TV,http://198.16.100.90:8278/NetTV/playlist.m3u8?tid=MB0B1364823413648234&ct=19249&tsum=4109bb7ef2f8a60d80af6c88a23ce242
+Nation,http://198.16.100.90:8278/nation_pat/playlist.m3u8?tid=MB1B9139560291395602&ct=19249&tsum=ce6f7c87a3c920df0d5212ee4b98ba18
+CelestialMoviesHD,http://198.16.100.90:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
+Channel3Thailand,http://198.16.100.90:8278/ch3_pat/playlist.m3u8?tid=MB6B7545566875455668&ct=19254&tsum=80c0722e6c93923edad559f6b70efb47
+Muslim TV,http://198.16.100.90:8278/MuslimTV/playlist.m3u8?tid=MC4C3088884830888848&ct=19249&tsum=d1cd20fb991a3bee32ccd5cc6c7838b1
+itv1,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
+tvNMovie,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
+CNBC,http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+BBC WorldNews,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+BloombergNews,http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+CBSNews,http://50.7.238.114:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+ABCNews,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+ABCNews,http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
+BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
+CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 Lifetime,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941669
 Paramount Network,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941654
 ROCK ENTERTAINMENT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941643
@@ -2331,13 +2318,10 @@ TVBS亚洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571185
 探索频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571210&extension=ts
 NESN UHD,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1124351&extension=ts
 Evenement UHD,http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/496756
-Ziggo Sport 4K,http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
 RTL UHD,http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/29821.ts
-Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
 MOVISTAR LIGA DE CAMPEONES UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/12401
 ODISEA UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
-Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 TRT 4k,http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/38904
 TRT 4k,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
 DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
@@ -2354,7 +2338,7 @@ loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 BBC UHD,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
 Quadro 4K,http://91.207.180.142/Quadro4K/index.m3u8
-TVBS 新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691680764/ei/nKvUZNCUD_SLlu8PlIG3iAs/ip/70.37.167.22/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fzpgLDx6k_LqTopl-B7RjIsH5GnI5cqxRlsCOg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP3tfoNpYKektytn_xee14EDhF3NdZUyCY35HEOy_BEkAiEA0s-qrOq4G_N2UqHVA5ZAxSPIJMb_4zdFLHKPCYZ5WTY%3D/file/index.m3u8
+TVBS新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691680764/ei/nKvUZNCUD_SLlu8PlIG3iAs/ip/70.37.167.22/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fzpgLDx6k_LqTopl-B7RjIsH5GnI5cqxRlsCOg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP3tfoNpYKektytn_xee14EDhF3NdZUyCY35HEOy_BEkAiEA0s-qrOq4G_N2UqHVA5ZAxSPIJMb_4zdFLHKPCYZ5WTY%3D/file/index.m3u8
 台视新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691680764/ei/nKvUZLSUMOWsir4P5ICo2AU/ip/70.37.167.22/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzpcdSPYnutCHmYWDPeKLEp4MRn9QkxtaNqiqQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALaCVfbiljEWLbAAUZc2fo6a8MevBs5oPeYEJdKTYcJKAiEAoOHlzcLSrbp26c7CZrdvyUX_VkMH_Tycc3arVMCgJZw%3D/file/index.m3u8
 东森新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691680767/ei/n6vUZK3EG6nFir4PueChEA/ip/70.37.167.22/id/R2iMq5LKXco.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f1hLyViPxT9I9uZtbZdJ3J4LhobmrmguCLxrcA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCXgEtWmvD-it3VRV0FXnPHfZoeuIlYmhCErAOyQKTzECIQCQ6N9KnHOvPjOd1Yup74xqamO3qtB7S7gVBe4Qg-Piug%3D%3D/file/index.m3u8
 
@@ -2366,7 +2350,9 @@ SPORTS,#genre#
 纬来体育,https://us.dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&token=c0vzuc7wqkzk
 纬来体育,rtmp://219.80.97.77/sat/tv721
 纬来体育,http://123.51.230.108:18509/.m3u8
+纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
 博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
+博斯运动1,http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯运动1,https://us.dispatch.ulivetv.net/v/live/cg1mq9e7sl34.m3u8?stream_id=cg1mq9e7sl34&token=c0vzuc7wqkzk
 博斯运动2,https://us.dispatch.ulivetv.net/v/live/cg1mvz20c14w.m3u8?stream_id=cg1mvz20c14w&token=c0vzuc7wqkzk
 博斯高球1,https://us.dispatch.ulivetv.net/v/live/cg1n0b4bgbeo.m3u8?stream_id=cg1n0b4bgbeo&token=c0vzuc7wqkzk
@@ -2392,6 +2378,8 @@ SPORTS,#genre#
 博斯高球1,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 博斯高球1,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯无限,https://us.dispatch.ulivetv.net/v/live/clecumtydz28.m3u8?stream_id=clecumtydz28&token=c0vzuc7wqkzk
+ELEVEN1,http://198.16.100.90:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+ELEVEN2,http://198.16.100.90:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
 ELEVEN1,https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&token=c0vzuc7wqkzk
 ELEVEN1,https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&token=c0vzuc7wqkzk
 ELEVEN2,https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&token=c0vzuc7wqkzk
@@ -2425,14 +2413,13 @@ ELTA体育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b
 ELTA体育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 ELTA体育2台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 ELTA体育1台,rtmp://219.80.97.77/sat/md031
+智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+Ziggo Sport 4K,http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 WWE,http://50.7.238.114:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 WWE,http://198.16.100.90:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-Astro SuperSport,https://us.dispatch.ulivetv.net/v/live/cg1npm2qvn40.m3u8?stream_id=cg1npm2qvn40&token=c0vzuc7wqkzk
-Astro SuperSport2,https://us.dispatch.ulivetv.net/v/live/cg1o236o5ubk.m3u8?stream_id=cg1o236o5ubk&token=c0vzuc7wqkzk
-Astro SuperSport3,https://us.dispatch.ulivetv.net/v/live/cg1occ9jk43k.m3u8?stream_id=cg1occ9jk43k&token=c0vzuc7wqkzk
-Astro SuperSport4,https://us.dispatch.ulivetv.net/v/live/cg1okgbznhs0.m3u8?stream_id=cg1okgbznhs0&token=c0vzuc7wqkzk
-Astro SuperSport3,http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
-Astro SuperSport2,http://198.16.100.90:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
+RTM Sports,http://198.16.100.90:8278/Rtmsport/playlist.m3u8?tid=MF8F1702154217021542&ct=19249&tsum=e027d4717db55d11df07ebe27f5eb3a5
 欧洲体育1,https://us.dispatch.ulivetv.net/v/live/cl7cnsau00jk.m3u8?stream_id=cl7cnsau00jk&token=c0vzuc7wqkzk
 欧洲体育2,https://us.dispatch.ulivetv.net/v/live/cg1p37xozmio.m3u8?stream_id=cg1p37xozmio&token=c0vzuc7wqkzk
 欧洲体育1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30541&extension=ts
@@ -2451,7 +2438,7 @@ SPOTV,https://us.dispatch.ulivetv.net/v/live/cg4y76plhgw0.m3u8?stream_id=cg4y76p
 SPOTV2,https://us.dispatch.ulivetv.net/v/live/cg4vpue7oa80.m3u8?stream_id=cg4vpue7oa80&token=c0vzuc7wqkzk
 SPOTV,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941564
 SPOTV2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941563
-BTESPN,http://198.16.100.90:8278/btespn/playlist.m3u8?tid=MB5B6304580563045805&ct=19254&tsum=80d2ec53bd2391dea02424aad8c648c7
+TNT Sports 4,http://198.16.100.90:8278/btespn/playlist.m3u8?tid=MB5B6304580563045805&ct=19254&tsum=80d2ec53bd2391dea02424aad8c648c7
 ESPN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45579&extension=ts
 ESPN 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45580&extension=ts
 FS 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45571&extension=ts
@@ -2508,9 +2495,12 @@ Hub Premier 8,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=103
 Hub Premier 9,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032521&extension=ts
 Hub Premier 10,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032520&extension=ts
 Hub Premier 11,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032519&extension=ts
+Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 Hub Sports 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110667&extension=ts
 Hub Sports 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110666&extension=ts
 Hub Sports 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110665&extension=ts
+True Premium 2,http://198.16.100.90:8278/truepre2_pat/playlist.m3u8?tid=MD7D6803914668039146&ct=19249&tsum=896db6668d2b4a7ad693b44ab39fcd22
+True Premium 1,http://198.16.100.90:8278/truepre1_pat/playlist.m3u8?tid=MCEC6796185367961853&ct=19249&tsum=9ab501851eed281c85dc762c6b915c47
 CANAL+ SPORT 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880461&extension=ts
 CANAL+ SPORT 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts
 CANAL+ SPORT 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=ts
@@ -2525,6 +2515,12 @@ Astro SuperSport2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream
 Astro SuperSport3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
 Astro SuperSport4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
 Astro SuperSport5,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+Astro SuperSport,https://us.dispatch.ulivetv.net/v/live/cg1npm2qvn40.m3u8?stream_id=cg1npm2qvn40&token=c0vzuc7wqkzk
+Astro SuperSport2,https://us.dispatch.ulivetv.net/v/live/cg1o236o5ubk.m3u8?stream_id=cg1o236o5ubk&token=c0vzuc7wqkzk
+Astro SuperSport3,https://us.dispatch.ulivetv.net/v/live/cg1occ9jk43k.m3u8?stream_id=cg1occ9jk43k&token=c0vzuc7wqkzk
+Astro SuperSport4,https://us.dispatch.ulivetv.net/v/live/cg1okgbznhs0.m3u8?stream_id=cg1okgbznhs0&token=c0vzuc7wqkzk
+Astro SuperSport3,http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+Astro SuperSport2,http://198.16.100.90:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
 Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
 Now Sports UHD HK,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
 Now Sports UHD HK,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
@@ -4252,7 +4248,11 @@ JP| JAPANIM TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&s
 JP| TOKYO NOW,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=763885&extension=ts&play_token=bDlskX1lt5
 
 SOUTH KOREA,#genre#
-SKR| ARIRANG (NA),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156436&extension=ts&play_token=PK29Faw33a
+Arirang,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156436&extension=ts&play_token=PK29Faw33a
+Arirang,http://198.16.100.90:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+Arirang,http://50.7.238.114:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+Arirang,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 SKR| CTS (NA),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156434&extension=ts&play_token=xl1aL80OXR
 SKR| EBS (NA),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156431&extension=ts&play_token=5OY6ZoIM5N
 SKR| KBS WORLD (NA),http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156437&extension=ts&play_token=8kUg8rYnHp
