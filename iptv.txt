@@ -289,24 +289,6 @@ CCTV16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-CCTV1,http://45.137.97.13/user/dl/histar.php?id=cctv1&proxy
-CCTV2,http://45.137.97.13/user/dl/histar.php?id=cctv2&proxy
-CCTV3,http://45.137.97.13/user/dl/histar.php?id=cctv3&proxy
-CCTV4,http://45.137.97.13/user/dl/histar.php?id=cctv4&proxy
-CCTV5,http://45.137.97.13/user/dl/histar.php?id=cctv5&proxy
-CCTV6,http://45.137.97.13/user/dl/histar.php?id=cctv6&proxy
-CCTV7,http://45.137.97.13/user/dl/histar.php?id=cctv7&proxy
-CCTV8,http://45.137.97.13/user/dl/histar.php?id=cctv8&proxy
-CCTV9,http://45.137.97.13/user/dl/histar.php?id=cctv9&proxy
-CCTV10,http://45.137.97.13/user/dl/histar.php?id=cctv10&proxy
-CCTV11,http://45.137.97.13/user/dl/histar.php?id=cctv11&proxy
-CCTV12,http://45.137.97.13/user/dl/histar.php?id=cctv12&proxy
-CCTV13,http://45.137.97.13/user/dl/histar.php?id=cctv13&proxy
-CCTV14,http://45.137.97.13/user/dl/histar.php?id=cctv14&proxy
-CCTV15,http://45.137.97.13/user/dl/histar.php?id=cctv15&proxy
-CCTV16,http://45.137.97.13/user/dl/histar.php?id=cctv16&proxy
-CCTV17,http://45.137.97.13/user/dl/histar.php?id=cctv17&proxy
-CCTV5+,http://45.137.97.13/user/dl/histar.php?id=cctv5plus&proxy
 
 卫视,#genre#
 湖南卫视,http://183.65.9.200:8888/udp/235.254.199.62:7980#http://125.82.171.210:8888/udp/235.254.199.62:7980#http://14.105.22.165:1388/udp/235.254.199.62:7980
@@ -642,41 +624,6 @@ CCTV5+,http://45.137.97.13/user/dl/histar.php?id=cctv5plus&proxy
 河南卫视,http://61.138.167.36:9901/tsfile/live/0139_1.m3u8
 甘肃卫视,http://61.138.167.36:9901/tsfile/live/0141_1.m3u8
 黑龙江卫视,http://61.138.167.36:9901/tsfile/live/0143_1.m3u8
-北京卫视,http://45.137.97.13/user/dl/histar.php?id=beijing&proxy
-湖南卫视,http://45.137.97.13/user/dl/histar.php?id=hunan&proxy
-浙江卫视,http://45.137.97.13/user/dl/histar.php?id=zhejiang&proxy
-东方卫视,http://45.137.97.13/user/dl/histar.php?id=dongfang&proxy
-江苏卫视,http://45.137.97.13/user/dl/histar.php?id=jiangsu&proxy
-重庆卫视,http://45.137.97.13/user/dl/histar.php?id=chongqing&proxy
-东南卫视,http://45.137.97.13/user/dl/histar.php?id=dongnan&proxy
-福建海峡卫视,http://45.137.97.13/user/dl/histar.php?id=fujianhaixia&proxy
-甘肃卫视,http://45.137.97.13/user/dl/histar.php?id=gansu&proxy
-广西卫视,http://45.137.97.13/user/dl/histar.php?id=guangxi&proxy
-贵州卫视,http://45.137.97.13/user/dl/histar.php?id=guizhou&proxy
-海南卫视,http://45.137.97.13/user/dl/histar.php?id=hainan&proxy
-河北卫视,http://45.137.97.13/user/dl/histar.php?id=hebei&proxy
-黑龙江卫视,http://45.137.97.13/user/dl/histar.php?id=heilongjiang&proxy
-湖北卫视,http://45.137.97.13/user/dl/histar.php?id=hubei&proxy
-江西卫视,http://45.137.97.13/user/dl/histar.php?id=jiangxi&proxy
-吉林卫视,http://45.137.97.13/user/dl/histar.php?id=jilin&proxy
-辽宁卫视,http://45.137.97.13/user/dl/histar.php?id=liaoning&proxy
-南方卫视,http://45.137.97.13/user/dl/histar.php?id=nanfang&proxy
-内蒙古卫视,http://45.137.97.13/user/dl/histar.php?id=neimenggu&proxy
-宁夏卫视,http://45.137.97.13/user/dl/histar.php?id=ningxia&proxy
-陕西卫视,http://45.137.97.13/user/dl/histar.php?id=shaanxi&proxy
-山东卫视,http://45.137.97.13/user/dl/histar.php?id=shandong&proxy
-山西卫视,http://45.137.97.13/user/dl/histar.php?id=shanxi&proxy
-深圳卫视,http://45.137.97.13/user/dl/histar.php?id=shenzhen&proxy
-四川卫视,http://45.137.97.13/user/dl/histar.php?id=sichuan&proxy
-天津卫视,http://45.137.97.13/user/dl/histar.php?id=tianjin&proxy
-厦门卫视,http://45.137.97.13/user/dl/histar.php?id=xiamen&proxy
-新疆卫视,http://45.137.97.13/user/dl/histar.php?id=xinjiang&proxy
-西藏卫视,http://45.137.97.13/user/dl/histar.php?id=xizang&proxy
-云南卫视,http://45.137.97.13/user/dl/histar.php?id=yunnan&proxy
-广东卫视,http://45.137.97.13/user/dl/histar.php?id=guangdong&proxy
-安徽卫视,http://45.137.97.13/user/dl/histar.php?id=anhui&proxy
-河南卫视,http://45.137.97.13/user/dl/histar.php?id=henan&proxy
-青海卫视,http://45.137.97.13/user/dl/histar.php?id=qinghai&proxy
 
 上海,#genre#
 上海第一财经,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
@@ -711,10 +658,6 @@ CCTV5+,http://45.137.97.13/user/dl/histar.php?id=cctv5plus&proxy
 上海新闻综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 上视外语频道,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-第一财经,http://45.137.97.13/user/dl/histar.php?id=yicai&proxy
-上海都市,http://45.137.97.13/user/dl/histar.php?id=shds&proxy
-上海新闻,http://45.137.97.13/user/dl/histar.php?id=shxw&proxy
-五星体育,http://45.137.97.13/user/dl/histar.php?id=wxty&proxy
 
 北京,#genre#
 北京文艺,https://live.goodiptv.club/api/ghyx.php?id=BTVwenyiHD_6000
@@ -733,8 +676,6 @@ CCTV5+,http://45.137.97.13/user/dl/histar.php?id=cctv5plus&proxy
 北京新闻,http://lu1.cc/c/tv/bjtv/btime1.php?id=bjxw
 北京生活,http://lu1.cc/c/tv/bjtv/btime1.php?id=bjsh
 北京文艺,http://lu1.cc/c/tv/bjtv/btime1.php?id=bjwy
-北京体育休闲,http://45.137.97.13/user/dl/histar.php?id=bjtyxx&proxy
-北京财经,http://45.137.97.13/user/dl/histar.php?id=bjcj&proxy
 
 浙江,#genre#
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
@@ -1413,12 +1354,6 @@ KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 广州竞赛,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
 广东国际,http://hongyanqiang.top/chudian.php?id=gdgj
 西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-广东珠江,http://45.137.97.13/user/dl/histar.php?id=gdzj&proxy
-湖南经视,http://45.137.97.13/user/dl/histar.php?id=hnjs&proxy
-天津体育,http://45.137.97.13/user/dl/histar.php?id=tjty&proxy
-辽宁体育,http://45.137.97.13/user/dl/histar.php?id=lnty&proxy
-广东体育,http://45.137.97.13/user/dl/histar.php?id=gdty&proxy
-河南梨园,http://45.137.97.13/user/dl/histar.php?id=hnly&proxy
 欢笑剧场4K,http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 爱上4K,https://live.goodiptv.club/aishang/as4k
 欢笑剧场4K,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
@@ -1579,40 +1514,12 @@ TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=5711
 TVB娱乐新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
 TVB J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 TVB新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-凤凰中文,http://45.137.97.13/user/dl/histar.php?id=phtv-cn&proxy
-凤凰资讯,http://45.137.97.13/user/dl/histar.php?id=phtv-info&proxy
-TVB J2,http://45.137.97.13/user/dl/histar.php?id=j2&proxy
-TVB明珠台,http://45.137.97.13/user/dl/histar.php?id=pearl&proxy
-ViuTV,http://45.137.97.13/user/dl/histar.php?id=viutv&proxy
-TVB翡翠台,http://45.137.97.13/user/dl/histar.php?id=feicui&proxy
-NOW财经台,http://45.137.97.13/user/dl/histar.php?id=now-finance&proxy
-凤凰中文,http://45.137.97.13/user/dl/histar.php?id=phtv&proxy
-澳门莲花,http://45.137.97.13/user/dl/histar.php?id=lotustv&proxy
-TVB新闻,http://45.137.97.13/user/dl/histar.php?id=tvb-news&proxy
-TVB财经,http://45.137.97.13/user/dl/histar.php?id=tvb-finance&proxy
-ViuTV6,http://45.137.97.13/user/dl/histar.php?id=viutv6&proxy
-RTHK31,http://45.137.97.13/user/dl/histar.php?id=rthk31&proxy
-RTHK32,http://45.137.97.13/user/dl/histar.php?id=rthk32&proxy
-HOYTV,http://45.137.97.13/user/dl/histar.php?id=hoytv&proxy
-香港国际财经,http://45.137.97.13/user/dl/histar.php?id=hkibc&proxy
-HOY资讯,http://45.137.97.13/user/dl/histar.php?id=hoy-info&proxy
-澳门资讯,http://45.137.97.13/user/dl/histar.php?id=amzx&proxy
-澳视澳门,http://45.137.97.13/user/dl/histar.php?id=asam&proxy
-NOW新闻台,http://45.137.97.13/user/dl/histar.php?id=now-news&proxy
-TVB经典台,http://45.137.97.13/user/dl/histar.php?id=tvb-classic&proxy
-凤凰香港,http://45.137.97.13/user/dl/histar.php?id=phtv-hk&proxy
-NOW华剧台,http://45.137.97.13/user/dl/histar.php?id=now-hairun&proxy
-TVB华语剧台,http://45.137.97.13/user/dl/histar.php?id=tvb-drama&proxy
-TVB星河,http://45.137.97.13/user/dl/histar.php?id=tvb-xinghe&proxy
-NOW爆谷台,http://45.137.97.13/user/dl/histar.php?id=baogu-movies&proxy
 天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941618
 天映经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941639
 天映经典,https://us.dispatch.ulivetv.net/v/live/cg48ogf0pj28.m3u8?stream_id=cg48ogf0pj28&token=c0vzuc7wqkzk
 天映频道,https://us.dispatch.ulivetv.net/v/live/cg4jy3qvi6kg.m3u8?stream_id=cg4jy3qvi6kg&token=c0vzuc7wqkzk
 天映经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
 天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571218&extension=ts
-天映经典,http://45.137.97.13/user/dl/histar.php?id=cccm&proxy
-天映频道,http://45.137.97.13/user/dl/histar.php?id=celestial&proxy
 
 台湾,#genre#
 TVBS新闻,https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&token=c0vzuc7wqkzk
@@ -2469,118 +2376,6 @@ Quadro 4K,http://91.207.180.142/Quadro4K/index.m3u8
 TVBS新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692642792/ei/iFnjZLW7GsTj8wS8uK6ADg/ip/20.49.15.194/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f0PcH_yr-0HxEoCmkTWTGL0Ulg6uGz_stQYoWA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIRTTpEeanK07urw1WFSNkEcOdcW9QSvxSfGrC18MvJ2AiEAh33yOO2X515o0C380fZwNgW5D6WmF33mBK0X22Gq1VA%3D/file/index.m3u8
 台视新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692642793/ei/iVnjZKSVAYSl_9EP6Za88AM/ip/20.49.15.194/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4A78aVgjr0vFroW6ltubMZ6dVbHAVMJQi3UoA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPZ8RtjA0vBe0TI7CZ1mc-tac76d0scaQgK5O6Zi7UMPAiEAs0DOsOwvcJGwnwUaDRh_pTblC4HPwlpuHHZsHyysc1Y%3D/file/index.m3u8
 东森新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692642795/ei/i1njZOH1J8zsxtYPsqe6qAY/ip/20.49.15.194/id/R2iMq5LKXco.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fy5foiJ9lBvSmGY0OMSAc2dAKdCo6gdjDHAVTw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTJEl9wbe8RgyHSmIXgIDKU_Eg_-W9BIUefEOz-1nE-cCIDFQ7_c1OD17MI4-mvNSSDABfu3uon2Ee-SpAgRqxjcA/file/index.m3u8
-大爱二台,http://45.137.97.13/user/dl/histar.php?id=daai2&proxy
-大爱一台,http://45.137.97.13/user/dl/histar.php?id=daai1&proxy
-中视,http://45.137.97.13/user/dl/histar.php?id=ctv-hd&proxy
-公视,http://45.137.97.13/user/dl/histar.php?id=pts&proxy
-公视3,http://45.137.97.13/user/dl/histar.php?id=pts3&proxy
-中天综合,http://45.137.97.13/user/dl/histar.php?id=ctitv36&proxy
-中天亚洲,http://45.137.97.13/user/dl/histar.php?id=cti-asia&proxy
-东森超视,http://45.137.97.13/user/dl/histar.php?id=ebc-supertv&proxy
-靖天国际,http://45.137.97.13/user/dl/histar.php?id=jtgj&proxy
-TVBS亚洲,http://45.137.97.13/user/dl/histar.php?id=tvbs-asia&proxy
-八大综合,http://45.137.97.13/user/dl/histar.php?id=gtv28&proxy
-客家电视,http://45.137.97.13/user/dl/histar.php?id=hakkatv&proxy
-东森综合,http://45.137.97.13/user/dl/histar.php?id=ebc-ettv&proxy
-中视,http://45.137.97.13/user/dl/histar.php?id=ctv&proxy
-华视,http://45.137.97.13/user/dl/histar.php?id=cts&proxy
-台视,http://45.137.97.13/user/dl/histar.php?id=ttv&proxy
-纬来日本,http://45.137.97.13/user/dl/histar.php?id=videoland-japan&proxy
-纬来综合,http://45.137.97.13/user/dl/histar.php?id=videoland&proxy
-八大第一台,http://45.137.97.13/user/dl/histar.php?id=gtv27&proxy
-ELTA综合,http://45.137.97.13/user/dl/histar.php?id=elta-tv&proxy
-TVBS新闻,http://45.137.97.13/user/dl/histar.php?id=tvbs-news&proxy
-寰宇新闻,http://45.137.97.13/user/dl/histar.php?id=global-news&proxy
-华视新闻,http://45.137.97.13/user/dl/histar.php?id=cts-news&proxy
-中天新闻,http://45.137.97.13/user/dl/histar.php?id=cti-news&proxy
-镜新闻,http://45.137.97.13/user/dl/histar.php?id=mnews&proxy
-壹新闻,http://45.137.97.13/user/dl/histar.php?id=nexttv&proxy
-靖天资讯,http://45.137.97.13/user/dl/histar.php?id=jtzx&proxy
-中视新闻,http://45.137.97.13/user/dl/histar.php?id=ctv-news&proxy
-台视新闻,http://45.137.97.13/user/dl/histar.php?id=ttv-news&proxy
-TVBS,http://45.137.97.13/user/dl/histar.php?id=tvbs-hd&proxy
-东森财经,http://45.137.97.13/user/dl/histar.php?id=ebc-finance&proxy
-年代新闻,http://45.137.97.13/user/dl/histar.php?id=era-news&proxy
-非凡新闻,http://45.137.97.13/user/dl/histar.php?id=ustv-news&proxy
-东森新闻,http://45.137.97.13/user/dl/histar.php?id=ebc-news&proxy
-TVBS欢乐,http://45.137.97.13/user/dl/histar.php?id=tvbs-huanle&proxy
-中天娱乐,http://45.137.97.13/user/dl/histar.php?id=ctitv39&proxy
-八大娱乐,http://45.137.97.13/user/dl/histar.php?id=gtv86&proxy
-东森电影,http://45.137.97.13/user/dl/histar.php?id=ebc-movie&proxy
-东森戏剧,http://45.137.97.13/user/dl/histar.php?id=ebc-drama&proxy
-东森洋片,http://45.137.97.13/user/dl/histar.php?id=ebc-emovie&proxy
-卫视中文,http://45.137.97.13/user/dl/histar.php?id=star-chinese-channel&proxy
-卫视电影,http://45.137.97.13/user/dl/histar.php?id=star-chinese-movies&proxy
-龙祥电影,http://45.137.97.13/user/dl/histar.php?id=lstime&proxy
-好莱坞电影,http://45.137.97.13/user/dl/histar.php?id=hollywood-tw&proxy
-八大戏剧,http://45.137.97.13/user/dl/histar.php?id=gtv41&proxy
-纬来戏剧,http://45.137.97.13/user/dl/histar.php?id=videoland-drama&proxy
-纬来电影,http://45.137.97.13/user/dl/histar.php?id=videoland-movie&proxy
-龙华电影,http://45.137.97.13/user/dl/histar.php?id=ltv-movies&proxy
-龙华洋片,http://45.137.97.13/user/dl/histar.php?id=ltv-yangpian&proxy
-靖天电影,http://45.137.97.13/user/dl/histar.php?id=jtdy&proxy
-美亚电影,http://45.137.97.13/user/dl/histar.php?id=meiah-movies&proxy
-ELTA影剧,http://45.137.97.13/user/dl/histar.php?id=elta-drama&proxy
-EYETV戏剧,http://45.137.97.13/user/dl/histar.php?id=eye-drama&proxy
-星卫电影,http://45.137.97.13/user/dl/histar.php?id=star-movies&proxy
-星卫娱乐,http://45.137.97.13/user/dl/histar.php?id=star-entetainment&proxy
-MTV,http://45.137.97.13/user/dl/histar.php?id=mtv&proxy
-国兴卫视,http://45.137.97.13/user/dl/histar.php?id=gold-sun-tv&proxy
-Astro Awani,http://45.137.97.13/user/dl/histar.php?id=astro-awani&proxy
-Astro Ceria,http://45.137.97.13/user/dl/histar.php?id=astro-ceria&proxy
-Astro ONE,http://45.137.97.13/user/dl/histar.php?id=astro-one&proxy
-Astro Prima,http://45.137.97.13/user/dl/histar.php?id=astro-prima&proxy
-Astro Oasis,http://45.137.97.13/user/dl/histar.php?id=astro-oasis&proxy
-Astro Warna,http://45.137.97.13/user/dl/histar.php?id=astro-warna&proxy
-Astro Rania,http://45.137.97.13/user/dl/histar.php?id=astro-rania&proxy
-Astro Aura,http://45.137.97.13/user/dl/histar.php?id=astro-aura&proxy
-8TV,http://45.137.97.13/user/dl/histar.php?id=8tv&proxy
-TV9,http://45.137.97.13/user/dl/histar.php?id=tv9&proxy
-Astro Citra,http://45.137.97.13/user/dl/histar.php?id=astro-citra&proxy
-Astro AEC,http://45.137.97.13/user/dl/histar.php?id=astro-aec&proxy
-Astro 双星台,http://45.137.97.13/user/dl/histar.php?id=astro-shuangxing&proxy
-Astro AOD,http://45.137.97.13/user/dl/histar.php?id=astro-aod-hd&proxy
-Astro 欢喜台,http://45.137.97.13/user/dl/histar.php?id=astro-huaheedai&proxy
-Astro AOD,http://45.137.97.13/user/dl/histar.php?id=astro-aod&proxy
-Astro Arena,http://45.137.97.13/user/dl/histar.php?id=astro-arena-hd&proxy
-Astro Arena 2,http://45.137.97.13/user/dl/histar.php?id=astro-arena2&proxy
-Astro 爱奇艺,http://45.137.97.13/user/dl/histar.php?id=astro-iqiyi&proxy
-Channel 5,http://45.137.97.13/user/dl/histar.php?id=channel-5&proxy
-Channel U,http://45.137.97.13/user/dl/histar.php?id=channel-u&proxy
-OKEY,http://45.137.97.13/user/dl/histar.php?id=okey&proxy
-Astro 华丽台,http://45.137.97.13/user/dl/histar.php?id=astro-wahlaitoi&proxy
-Channel 8,http://45.137.97.13/user/dl/histar.php?id=channel8&proxy
-靖天卡通,http://45.137.97.13/user/dl/histar.php?id=jtkt&proxy
-Astro 小太阳,http://45.137.97.13/user/dl/histar.php?id=astro-xty&proxy
-东森幼幼,http://45.137.97.13/user/dl/histar.php?id=ebc-yoyo&proxy
-MOMOTV,http://45.137.97.13/user/dl/histar.php?id=momotv&proxy
-小尼克频道,http://45.137.97.13/user/dl/histar.php?id=nick-jr&proxy
-MOMO亲子,http://45.137.97.13/user/dl/histar.php?id=momo-kids&proxy
-CN卡通,http://45.137.97.13/user/dl/histar.php?id=cn-cartoon&proxy
-Boomerang HD,http://45.137.97.13/user/dl/histar.php?id=boomerang-hd&proxy
-Animax卡通,http://45.137.97.13/user/dl/histar.php?id=animax-cartoon&proxy
-尼克儿童,http://45.137.97.13/user/dl/histar.php?id=nickelodeon&proxy
-国家地理,http://45.137.97.13/user/dl/histar.php?id=natgeo&proxy
-野生动物,http://45.137.97.13/user/dl/histar.php?id=natgeo-wild&proxy
-动物星球,http://45.137.97.13/user/dl/histar.php?id=animal-planet&proxy
-探索频道,http://45.137.97.13/user/dl/histar.php?id=discovery&proxy
-DMAX,http://45.137.97.13/user/dl/histar.php?id=dmax&proxy
-探索科学,http://45.137.97.13/user/dl/histar.php?id=discovery-sci&proxy
-探索亚洲,http://45.137.97.13/user/dl/histar.php?id=discovery-asia&proxy
-History,http://45.137.97.13/user/dl/histar.php?id=history&proxy
-History2,http://45.137.97.13/user/dl/histar.php?id=history-2&proxy
-TLC,http://45.137.97.13/user/dl/histar.php?id=tlc&proxy
-CI,http://45.137.97.13/user/dl/histar.php?id=ci&proxy
-亚洲旅游台,http://45.137.97.13/user/dl/histar.php?id=asia-travel&proxy
-美食星球,http://45.137.97.13/user/dl/histar.php?id=food-planet&proxy
-EYETV旅游,http://45.137.97.13/user/dl/histar.php?id=eye-travel&proxy
-ABCNews,http://45.137.97.13/user/dl/histar.php?id=abc-news&proxy
-Bloomberg,http://45.137.97.13/user/dl/histar.php?id=bloomberg&proxy
-FoxNews,http://45.137.97.13/user/dl/histar.php?id=fox-news&proxy
-BBC WorldNews,http://45.137.97.13/user/dl/histar.php?id=bbc-world-news&proxy
-CNN,http://45.137.97.13/user/dl/histar.php?id=cnn&proxy
-CBSNews,http://45.137.97.13/user/dl/histar.php?id=cbsn&proxy
-CNBC,http://45.137.97.13/user/dl/histar.php?id=cnbc&proxy
 
 Sports,#genre#
 纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
@@ -2784,31 +2579,6 @@ Now Sports 7,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110
 NOW PREMIER SPORTS 1,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=554953&extension=ts&play_token=GOrtHpTYly
 V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
 V Sports UHD,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
-纬来体育,http://45.137.97.13/user/dl/histar.php?id=videoland-sport&proxy
-ELEVEN1,http://45.137.97.13/user/dl/histar.php?id=eleven-sport1&proxy
-ELEVEN2,http://45.137.97.13/user/dl/histar.php?id=eleven-sport2&proxy
-博斯运动1,http://45.137.97.13/user/dl/histar.php?id=sportcast1&proxy
-博斯运动2,http://45.137.97.13/user/dl/histar.php?id=sportcast2&proxy
-博斯高球1,http://45.137.97.13/user/dl/histar.php?id=sportcast-golf1&proxy
-博斯高球2,http://45.137.97.13/user/dl/histar.php?id=sportcast-golf2&proxy
-博斯网球,http://45.137.97.13/user/dl/histar.php?id=sportcast-tennis&proxy
-SONY SPORTS 1,http://45.137.97.13/user/dl/histar.php?id=super-sports1&proxy
-SONY SPORTS 2,http://45.137.97.13/user/dl/histar.php?id=super-sports2&proxy
-SONY SPORTS 3,http://45.137.97.13/user/dl/histar.php?id=super-sports3&proxy
-SONY SPORTS 4,http://45.137.97.13/user/dl/histar.php?id=super-sports4&proxy
-欧洲体育2,http://45.137.97.13/user/dl/histar.php?id=super-sports5&proxy
-BEIN Sports Max,http://45.137.97.13/user/dl/histar.php?id=bein-max&proxy
-SPOTV2,http://45.137.97.13/user/dl/histar.php?id=spotv2&proxy
-SPOTV,http://45.137.97.13/user/dl/histar.php?id=spotv&proxy
-BEIN 2 Sports,http://45.137.97.13/user/dl/histar.php?id=bein-sports2&proxy
-BEIN 1 Sports,http://45.137.97.13/user/dl/histar.php?id=bein-sports1&proxy
-BEIN 3 Sports,http://45.137.97.13/user/dl/histar.php?id=bein-sports3&proxy
-欧洲体育HD,http://45.137.97.13/user/dl/histar.php?id=eurosport-hd&proxy
-欧洲体育1,http://45.137.97.13/user/dl/histar.php?id=eurosports-1&proxy
-博斯无限,http://45.137.97.13/user/dl/histar.php?id=sportcast-wx&proxy
-ELTA体育1台,http://45.137.97.13/user/dl/histar.php?id=elta-sport1&proxy
-ELTA体育2台,http://45.137.97.13/user/dl/histar.php?id=elta-sport2&proxy
-ELTA体育3台,http://45.137.97.13/user/dl/histar.php?id=elta-sport3&proxy
 NBA,https://us.dispatch.ulivetv.net/v/live/cl7cdvv53n40.m3u8?stream_id=cl7cdvv53n40&token=c0vzuc7wqkzk
 ##### NBA LIVE EVENTS #####,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=836374&extension=ts
 NBA TV,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
