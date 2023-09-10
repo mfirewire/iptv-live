@@ -2186,34 +2186,6 @@ History,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&str
 AXN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941660
 Warner TV,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941652
 CI,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941666
-ABCNews,https://us.dispatch.ulivetv.net/v/live/cfxyzlerqda8.m3u8?stream_id=cfxyzlerqda8&token=c0vzuc7wqkzk
-FoxNews,https://us.dispatch.ulivetv.net/v/live/cfy0k34f522o.m3u8?stream_id=cfy0k34f522o&token=c0vzuc7wqkzk
-CBSNews,https://us.dispatch.ulivetv.net/v/live/cfxz3f9zhayo.m3u8?stream_id=cfxz3f9zhayo&token=c0vzuc7wqkzk
-CNN,https://us.dispatch.ulivetv.net/v/live/cfxzi2gyzutc.m3u8?stream_id=cfxzi2gyzutc&token=c0vzuc7wqkzk
-CNBC,https://us.dispatch.ulivetv.net/v/live/cl7cdjqouc3k.m3u8?stream_id=cl7cdjqouc3k&token=c0vzuc7wqkzk
-CNN,https://us.dispatch.ulivetv.net/v/live/cl7ct8ccm6yo.m3u8?stream_id=cl7ct8ccm6yo&token=c0vzuc7wqkzk
-EuroNews,https://us.dispatch.ulivetv.net/v/live/cl7ctk7x8hq8.m3u8?stream_id=cl7ctk7x8hq8&token=c0vzuc7wqkzk
-BBC,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
-BBC1,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
-BBC2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-BBC WorldNews,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-BBC UHD,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
-CBBC,http://198.16.100.90:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
-Sky News,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941684
-DW English,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941687
-France24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NHK,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941611
-NHK World,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941610
-Bloomberg,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941692
-Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-CNBC,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941689
-CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
-MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
-NHK,http://123.51.230.108:18525/.m3u8
-DW English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-EuroNews,http://198.16.100.90:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
-TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-HLN,https://us.dispatch.ulivetv.net/v/live/cl7cstetysao.m3u8?stream_id=cl7cstetysao&token=c0vzuc7wqkzk
 Channel 5,https://us.dispatch.ulivetv.net/v/live/ciw8hkwsa2tc.m3u8?stream_id=ciw8hkwsa2tc&token=c0vzuc7wqkzk
 Channel U,https://us.dispatch.ulivetv.net/v/live/ciw8h6xy7wzk.m3u8?stream_id=ciw8h6xy7wzk&token=c0vzuc7wqkzk
 OKEY,https://us.dispatch.ulivetv.net/v/live/ciw8fwr1be0w.m3u8?stream_id=ciw8fwr1be0w&token=c0vzuc7wqkzk
@@ -2225,11 +2197,8 @@ More4,http://198.16.100.90:8278/more4_antik/playlist.m3u8?tid=MD1D70571643705716
 MiaoMi,http://198.16.100.90:8278/MiaoMi/playlist.m3u8?tid=MD3D6451573464515734&ct=19249&tsum=a88d7f5e564622f588e26dbb3743d86b
 Metro TV,http://198.16.100.90:8278/metrotv_eko/playlist.m3u8?tid=MF8F5976470059764700&ct=19249&tsum=480db4ba88eb5616ddfdd41839efb81b
 Makkal TV,http://198.16.100.90:8278/Makkaltv/playlist.m3u8?tid=MCCC2831040628310406&ct=19249&tsum=f5996da95064e8472a743fd60a183318
-CNBC,http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
 DiscoveryKidsTamil,http://198.16.100.90:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e
 DiscoveryWorldTamil,http://198.16.100.90:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
-FoxNews,http://50.7.238.114:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-FoxNews,http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 BernamaTV,http://198.16.100.90:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
 GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
@@ -2239,24 +2208,11 @@ ROLLOR,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 Pet Club,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 Gobal Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
 LUXE,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
-FoxNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-ABCNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-Bloomberg Quicktake,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
 BBC Lifestyle,http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 MusicTV,http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
 TLC,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
-BBC1,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
-BBC2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
 BBC Earth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
 BBC Earth Tamil,http://198.16.100.90:8278/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
-BBC WorldNews,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-BloombergNews,http://198.16.100.90:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-Boomerang,http://198.16.100.90:8278/Boomerang/playlist.m3u8?tid=MBFB8899351888993518&ct=19254&tsum=f71dd7b0e6a7b9835cf74808aae1c4f7
-CBSNews,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
 thai3,http://198.16.100.90:8278/tpbs_pat/playlist.m3u8?tid=MF9F9580758695807586&ct=19249&tsum=e2992a8627dbfd1cb4ac975efe0a195a
 itv1,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
 itv2,http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
@@ -2285,7 +2241,6 @@ TPTV,http://198.16.100.90:8278/tptv_pat/playlist.m3u8?tid=MA0A1085390910853909&c
 TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
 Suria,http://198.16.100.90:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
 One,http://198.16.100.90:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9
-Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
 SCTV,http://198.16.100.90:8278/Sctv/playlist.m3u8?tid=MEAE5576803555768035&ct=19249&tsum=22cd08338943a038eb9a5bcf2ff7cba3
 SCM,http://198.16.100.90:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
 RCTI,http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
@@ -2306,18 +2261,6 @@ Muslim TV,http://198.16.100.90:8278/MuslimTV/playlist.m3u8?tid=MC4C3088884830888
 tvNMovie,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
 TvN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
-CNBC,http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
-BBC WorldNews,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-BloombergNews,http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-CBSNews,http://50.7.238.114:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
-ABCNews,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-ABCNews,http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
-BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
-CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 Lifetime,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941669
 Paramount Network,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941654
 ROCK ENTERTAINMENT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941643
@@ -2338,10 +2281,6 @@ One,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=
 TvN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941623
 GEM,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941608
 TV,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941614
-CNN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
-BBC WorldNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
-FoxNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
-EuroNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941686
 Astro 爱奇艺,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571198&extension=ts
 Astro 全佳台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571192&extension=ts
 Astro 双星台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571191&extension=ts
@@ -2704,6 +2643,67 @@ NBCLX,https://d2ww7x6333b6qp.cloudfront.net/10507/9999549/hls/master.m3u8?ads.xu
 NBC Bay Area News,https://dcvc16cj4pjhu.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-70ae7wabh5wlz-stage/amg-nbcsanfrancisconews/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 ABC7 Bay Area,https://d3qhw0lfxsi5ao.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xx6sf3csge0c-ssai-prd/BayArea.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 WN San Francisco,https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+ABC News,https://us.dispatch.ulivetv.net/v/live/cfxyzlerqda8.m3u8?stream_id=cfxyzlerqda8&token=c0vzuc7wqkzk
+Fox News,https://us.dispatch.ulivetv.net/v/live/cfy0k34f522o.m3u8?stream_id=cfy0k34f522o&token=c0vzuc7wqkzk
+CBS News,https://us.dispatch.ulivetv.net/v/live/cfxz3f9zhayo.m3u8?stream_id=cfxz3f9zhayo&token=c0vzuc7wqkzk
+CNN,https://us.dispatch.ulivetv.net/v/live/cfxzi2gyzutc.m3u8?stream_id=cfxzi2gyzutc&token=c0vzuc7wqkzk
+CNBC,https://us.dispatch.ulivetv.net/v/live/cl7cdjqouc3k.m3u8?stream_id=cl7cdjqouc3k&token=c0vzuc7wqkzk
+CNN,https://us.dispatch.ulivetv.net/v/live/cl7ct8ccm6yo.m3u8?stream_id=cl7ct8ccm6yo&token=c0vzuc7wqkzk
+EuroNews,https://us.dispatch.ulivetv.net/v/live/cl7ctk7x8hq8.m3u8?stream_id=cl7ctk7x8hq8&token=c0vzuc7wqkzk
+BBC,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+BBC1,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+BBC2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+BBC WorldNews,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+BBC UHD,http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
+CBBC,http://198.16.100.90:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
+Sky News,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941684
+DW English,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941687
+France24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NHK,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941611
+NHK World,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941610
+Bloomberg TV,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941692
+Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+CNBC,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941689
+CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+NHK,http://123.51.230.108:18525/.m3u8
+DW English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+EuroNews,http://198.16.100.90:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+HLN,https://us.dispatch.ulivetv.net/v/live/cl7cstetysao.m3u8?stream_id=cl7cstetysao&token=c0vzuc7wqkzk
+CNBC,http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+Fox News,http://50.7.238.114:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+Fox News,http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+Bloomberg Quicktake,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+CBS News,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
+BBC1,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
+BBC2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+CNBC,http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+BBC WorldNews,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+Bloomberg News,http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+CBS News,http://50.7.238.114:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+CBS News,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+ABC News,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+ABC News,http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
+BabyTV,http://50.7.238.114:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
+CBS News,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
+BBC WorldNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
+Fox News,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
+EuroNews,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941686
+BBC WorldNews,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+Bloomberg News,http://198.16.100.90:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+Boomerang,http://198.16.100.90:8278/Boomerang/playlist.m3u8?tid=MBFB8899351888993518&ct=19254&tsum=f71dd7b0e6a7b9835cf74808aae1c4f7
+CBS News,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+CBS News,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
 ION,https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 Stories by AMC,https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8?ads.wurl_channel=663&ads.wurl_name=AMCPresentsClean&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 ALLBLK Gems,https://d3jm3r0xc2zqxe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3r512y4m6yzdi/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -3007,7 +3007,7 @@ TODAY All Day,https://i.mjh.nz/PlutoTV/5d695f7db53adf96b78e7ce3-alt.m3u8
 60 Minutes,https://i.mjh.nz/PlutoTV/60fb321ee99fac0008c9ab8a-alt.m3u8
 WeatherNation Los Angeles,https://i.mjh.nz/PlutoTV/61e9af6bfbbcc6000700119b-alt.m3u8
 Sky News,https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
-Bloomberg TV,https://i.mjh.nz/PlutoTV/54ff7ba69222cb1c2624c584-alt.m3u8
+Bloomberg TV+ UHD,https://i.mjh.nz/PlutoTV/54ff7ba69222cb1c2624c584-alt.m3u8
 Cheddar News,https://i.mjh.nz/PlutoTV/5812afe1d0f0b8d55dde67fa-alt.m3u8
 Scripps News,https://i.mjh.nz/PlutoTV/5459795fc9f133a519bc0bef-alt.m3u8
 Newsmax,https://i.mjh.nz/PlutoTV/55b179af994403942f3061d6-alt.m3u8
@@ -3705,10 +3705,10 @@ pocket.watch,https://f3445d6b0acf47dab6af7097fc57ce6d.mediatailor.us-east-1.amaz
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN,http://83.228.75.166:8000/play/a0ch
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
-BBCWorldNews,http://ott-cdn.ucom.am/s24/index.m3u8
-BBCWorldNews,http://meumd.com:80/rootiptv/5176iXo7/126063
-BBCWorldNews,https://us.dispatch.ulivetv.net/v/live/cfxzpvvyodkw.m3u8?stream_id=cfxzpvvyodkw&token=c0vzuc7wqkzk
-BBCWorldNews,http://185.236.229.31:9981/play/a072
+BBC WorldNews,http://ott-cdn.ucom.am/s24/index.m3u8
+BBC WorldNews,http://meumd.com:80/rootiptv/5176iXo7/126063
+BBC WorldNews,https://us.dispatch.ulivetv.net/v/live/cfxzpvvyodkw.m3u8?stream_id=cfxzpvvyodkw&token=c0vzuc7wqkzk
+BBC WorldNews,http://185.236.229.31:9981/play/a072
 BBC News,http://83.228.75.166:8000/play/a0e0
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -3727,21 +3727,21 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 韩联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 DiscoveryAsia,http://eaglevision.visualsec.net:8443/live/8K1eYn_JxymlrwmHKcCHsQ/1674421393/224.m3u8
 National Geographic Bangla,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-福克斯新闻FOX News Now (720p),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 JakartaGlobe News,https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 Bloomberg TV,https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 Прямий (576p),http://prm.cdn-02.cosmonova.net.ua/hls/prm_ua_low/index.m3u8
 ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-BBC World News,https://tv.googledrivelinks.com/live.php?c=BBC_World_News&q=1200&e=.m3u8
+BBC WorldNews,https://tv.googledrivelinks.com/live.php?c=BBC_World_News&q=1200&e=.m3u8
 DiscoveryAsia,http://aabb.is:2095/d4Je5xwD/yadTXB63/31014
 Reuters TV,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-BBC earth,https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
+BBC Earth,https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
 DISCOVERY WORLD,https://tv.googledrivelinks.com/live.php?c=Discovery_HD_World&q=1200&e=.m3u8
 Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 OUTSIDE TV,https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
-EuroNews English,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-EuroNews English,https://euronews.alteox.app/hls/en_stream.m3u8
+EuroNews,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+EuroNews,https://euronews.alteox.app/hls/en_stream.m3u8
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 Tastemade Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
@@ -3750,7 +3750,7 @@ LOVE NATURE,https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 LoveNature4K,http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 Discoveryᴴᴰ,http://185.59.223.102:8080/discovery/index.m3u8
 Nat Geographicᴴᴰ,http://185.59.223.102:8080/natgeo/index.m3u8
-BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+Bloomberg TV+ UHD,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 HBO,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 BBC One (UK),https://uksono1-samsunguk.amagi.tv/playlist540p.m3u8
@@ -3769,9 +3769,9 @@ NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_
 TLC,https://ancom.ga/fpt/travel-living/bitrate_5000.m3u8
 Metro TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 BBC Earth,http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/7032/index.m3u8
-ABC News USA Live,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
-FRANCE 24 (EN),https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
-France 24 ENG,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+ABC News,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
+FRANCE 24,https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+France 24,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 TRT WORLD,https://tv-trtworld.live.trt.com.tr/master.m3u8
 Sky News,https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 NBC News,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
@@ -3890,7 +3890,7 @@ Xplore,https://amg00111-hearstmediaprod-xploreintuk-samsunguk-s94f7.amagi.tv/pla
 WaterBear,https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 CNN FAST,https://d21aflc7nmm9mr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-09e5p11eztai8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 TalkTV,https://samsunguk-newsuk-talkradiotv-samsunguk-ppg60.amagi.tv/playlist/samsunguk-newsuk-talkradiotv-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-Bloomberg TV+,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+Bloomberg TV+ UHD,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 Bloomberg Originals,https://f559b0b61c424ec891e6b7d9963cdd01.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_QuickTake/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 Reuters,https://8d642f3f57294d719ccf3a03a89373aa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 GB News,https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -4107,7 +4107,7 @@ Pluto TV K-Pop,https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 MTV Rocks,https://i.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
 CBS News,https://i.mjh.nz/PlutoTV/6231eb3865be650007f59595-alt.m3u8
 Euronews,https://i.mjh.nz/PlutoTV/5ca1da6c593a5d78f0e7edce-alt.m3u8
-Bloomberg TV,https://i.mjh.nz/PlutoTV/61559552dd585f0007321eca-alt.m3u8
+Bloomberg TV+ UHD,https://i.mjh.nz/PlutoTV/61559552dd585f0007321eca-alt.m3u8
 Cheddar,https://i.mjh.nz/PlutoTV/5ca1e02c08ee5378be82db47-alt.m3u8
 Pluto TV Kids,https://i.mjh.nz/PlutoTV/5ad8d54be738977e2c310940-alt.m3u8
 Transformers,https://i.mjh.nz/PlutoTV/63d8ed19a9957100086f4d33-alt.m3u8
