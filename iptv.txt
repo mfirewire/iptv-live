@@ -1522,6 +1522,7 @@ TVB新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D973452749734
 天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571218&extension=ts
 
 台湾,#genre#
+TVBS新闻,https://fsv4.yj011.net/sat/tv551.flv
 TVBS新闻,https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&token=c0vzuc7wqkzk
 寰宇新闻,https://us.dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&token=c0vzuc7wqkzk
 华视新闻,https://us.dispatch.ulivetv.net/v/live/cfxxj2c5l6f4.m3u8?stream_id=cfxxj2c5l6f4&token=c0vzuc7wqkzk
